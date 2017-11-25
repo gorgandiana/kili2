@@ -1,0 +1,855 @@
+#doc=Irina_is_talking.2.txt;;;;;;;;;;;;;;;
+#;FORM;LEMMA;GRAM;COMMENT;CHECKED;RIGHT1;RIGHT2;RIGHT3;RIGHT4;RIGHT5;RIGHT6;POS;AUTO_LEMMA;AUTO_GRAM;AUTO_GRAM
+1;?;?;PUNC;Непонятно почему программа определила это как PUNC;;;;;;;;PUNC;?;PUNC;S f anim nom sg
+2;?;?;PUNC;;;;;;;;;PUNC;?;PUNC;PUNC
+3;Ирина;ИРИНА;S f anim nom sg persn;;;а;н;и;р;и;;S;ИРИНА;S f anim nom sg;SPRO sg 1p - nom
+4;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;PART
+5;Я;Я;SPRO sg 1p  nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;V ipf praes sg indic - 1p
+6;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;V ipf - - inf - -
+7;хочу;ХОТЕТЬ;V ipf praes sg indic - 1p;;;у;ч;о;х;;;V;ХОТЕТЬ;V ipf praes sg indic - 1p;PART
+8;говорить;ГОВОРИТЬ;V ipf  inf ;;;ь;т;и;р;о;в;V;ГОВОРИТЬ;V ipf - - inf - -;PR
+9;ни;НИ;CONJ;;;и;н;;;;;PART;НИ;PART;S f inan loc sg
+10;о;О;PR;;;о;;;;;;PR;О;PR;PUNC
+11;музыке;МУЗЫКА;S f inan loc sg;;;е;к;ы;з;у;м;S;МУЗЫКА;S f inan loc sg;CONJ
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+13;ни;НИ;CONJ;;;и;н;;;;;CONJ;НИ;CONJ;S n inan nonflex nonflex
+14;о;О;PR;;;о;;;;;;PR;О;PR;PUNC
+15;видео;ВИДЕО;S n inan nonflex nonflex;;;о;е;д;и;в;;S;ВИДЕО;S n inan nonflex nonflex;CONJ
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+17;ни;НИ;CONJ;;;и;н;;;;;CONJ;НИ;CONJ;S n - ins sg
+18;о;О;PR;;;о;;;;;;PR;О;PR;SPRO sg 1p - loc
+19;чем;ЧТО;SPRO loc ;;;м;е;ч;;;;S;ЧТО;S n - ins sg;V ipf praes sg indic - 3p
+20;мне;Я;SPRO sg 1p  dat;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc;PUNC
+21;нравится;НРАВИТЬСЯ;V ipf praes sg indic - 3p;;;я;с;т;и;в;а;V;НРАВИТЬСЯ;V ipf praes sg indic - 3p;CONJ
+22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+23;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ;SPRO sg 1p - nom
+24;сегодня;СЕГОДНЯ;ADV ;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -;V pf fut sg indic - 1p
+25;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;PR
+26;расскажу;РАССКАЗАТЬ;V pf fut sg indic - 1p;;;у;ж;а;к;с;с;V;РАССКАЗАТЬ;V pf fut sg indic - 1p;ADV -
+27;о;О;PR;;;о;;;;;;PR;О;PR;A - dat sg plen f -
+28;очень;ОЧЕНЬ;ADV ;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -;S f inan dat sg
+29;насущной;НАСУЩНЫЙ;A loc sg plen f ;;;й;о;н;щ;у;с;A;НАСУЩНЫЙ;A - dat sg plen f -;PUNC
+30;проблеме;ПРОБЛЕМА;S f inan loc sg;;;е;м;е;л;б;о;S;ПРОБЛЕМА;S f inan dat sg;A - nom sg plen f -
+31;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+32;которая;КОТОРЫЙ;APRO - nom sg  f ;;;я;а;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen f -;SPRO sg 1p - acc
+33;лично;ЛИЧНО;ADV ;;;о;н;ч;и;л;;ADV;ЛИЧНО;ADV -;V ipf praes sg indic - 3p
+34;меня;Я;SPRO sg 1p acc;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc;PUNC
+35;затрагивает;ЗАТРАГИВАТЬ;V ipf praes sg indic - 3p;;;т;е;а;в;и;г;V;ЗАТРАГИВАТЬ;V ipf praes sg indic - 3p;SENT
+36;-;-;PUNC;;;;;;;;;PUNC;-;PUNC;
+;;;;;;;;;;;;;;;S m inan acc sg
+1;это;ЭТО;SPRO sg nom;;;о;т;э;;;;S;ЭТО;S n - nom sg;A - nom sg plen f -
+2;патриотизм.;ПАТРИОТИЗМ.;S m inan acc sg;слово раздельно с точкой, это конец предложения;;;м;з;и;т;о;S;ПАТРИОТИЗМ.;S m inan acc sg;S f anim nom sg
+3;Моя;МОЙ;APRO  nom sg f ;;;я;о;м;;;;A;МОЙ;A - nom sg plen f -;V pf praet sg indic f -
+4;сестра;СЕСТРА;S f anim nom sg;;;а;р;т;с;е;с;S;СЕСТРА;S f anim nom sg;PR
+5;поступила;ПОСТУПИТЬ;V pf praet sg indic f -;;;а;л;и;п;у;т;V;ПОСТУПИТЬ;V pf praet sg indic f -;A supr acc sg plen f -
+6;в;В;PR;;;в;;;;;;PR;В;PR;S f inan acc sg
+7;Высшую;ВЫСШИЙ;A supr acc sg  f ;;;ю;у;ш;с;ы;в;A;ВЫСШИЙ;A supr acc sg plen f -;S f inan nom sg
+8;Школу;ШКОЛА;S f inan acc sg;;;у;л;о;к;ш;;S;ШКОЛА;S f inan acc sg;PR
+9;Экономики;ЭКОНОМИКА;S f inan gen sg;;;и;к;и;м;о;н;S;ЭКОНОМИКА;S f inan nom sg;S m inan acc sg
+10;на;НА;PR;;;а;н;;;;;PR;НА;PR;S f inan acc pl
+11;факультет;ФАКУЛЬТЕТ;S m inan loc sg;;;т;е;т;ь;л;у;S;ФАКУЛЬТЕТ;S m inan acc sg;ADV -
+12;Лингвистики.;ЛИНГВИСТИКА.;S f inan gen sg;;;;и;к;и;т;с;S;ЛИНГВИСТИКА.;S f inan acc pl;SENT
+13;Зачем;ЗАЧЕМ;ADVPRO;;;м;е;ч;а;з;;ADV;ЗАЧЕМ;ADV -;
+14;?;?;SENT;;;;;;;;;SENT;?;SENT;ADV -
+;;;;;;;;;;;;;;;PUNC
+1;Затем;ЗАТЕМ;ADV ;;;м;е;т;а;з;;ADV;ЗАТЕМ;ADV -;CONJ
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 3p f nom
+3;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ;V ipf praes sg indic - 3p
+4;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom;V pf - - inf - -
+5;хочет;ХОТЕТЬ;V ipf praes sg indic - 3p;;;т;е;ч;о;х;;V;ХОТЕТЬ;V ipf praes sg indic - 3p;PUNC
+6;выучить;ВЫУЧИТЬ;V pf - - inf - -;;;ь;т;и;ч;у;ы;V;ВЫУЧИТЬ;V pf - - inf - -;NONLEX
+7;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;PUNC
+9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX;12
+10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC;ADV -
+11;"	";_;;;;;;;;;;;_;12;12
+12;стопицот;СТО ПЯТЬДЕСЯТ;NUM acc - -;distort;;т;о;ц;и;п;о;ADV;СТОПИЦОТ;ADV -;PUNC
+13;"	";_;;;;;;;;;;;_;12;NUM acc - -
+14;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;NUM acc - -
+15;сто;СТО;NUM acc - -;;;о;т;с;;;;NUM;СТО;NUM acc - -;PUNC
+16;пятьдесят;ПЯТЬДЕСЯТ;NUM acc - -;;;т;я;с;е;д;ь;NUM;ПЯТЬДЕСЯТ;NUM acc - -;PUNC
+17;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+18;/;/;PUNC;;;;;;;;;PUNC;/;PUNC;PUNC
+19;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;SENT
+20;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;
+;;;;;;;;;;;;;;;PR
+1;языков.;ЯЗЫК.;S m inan gen pl;точка со словом раздельно должна быть,это конец предложения;;;в;о;к;ы;з;S;ЯЗЫК.;S m inan gen pl;A - gen sg plen f -
+2;С;С;PR;;;с;;;;;;PR;С;PR;S f inan ins sg
+3;какой;КАКОЙ;APRO - ins sg  f ;;;й;о;к;а;к;;A;КАКОЙ;A - gen sg plen f -;PUNC
+4;целью;ЦЕЛЬ;S f inan ins sg;;;ю;ь;л;е;ц;;S;ЦЕЛЬ;S f inan ins sg;PR
+5;?;?;SENT;;;;;;;;;PUNC;?;PUNC;S f inan ins sg
+6;С;С;PR;;;с;;;;;;PR;С;PR;S n - gen sg
+7;целью;ЦЕЛЬ;S f inan ins sg;;;ю;ь;л;е;ц;;S;ЦЕЛЬ;S f inan ins sg;PUNC
+8;того;ТО;SPRO n - gen sg;;;о;г;о;т;;;S;ТО;S n - gen sg;CONJ
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+10;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ;V pf - - inf - -
+11;потом;ПОТОМ;ADV -;;;м;о;т;о;п;;ADV;ПОТОМ;ADV -;S f inan acc sg
+12;свалить;СВАЛИТЬ;V pf - - inf - -;;;ь;т;и;л;а;в;V;СВАЛИТЬ;V pf - - inf - -;PUNC
+13;заграницу;ЗАГРАНИЦА;ADV ;;;у;ц;и;н;а;р;S;ЗАГРАНИЦА;S f inan acc sg;CONJ
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes sg indic - 1p
+15;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ;V pf - - inf - -
+16;хочу;ХОТЕТЬ;V ipf praes sg indic - 1p;;;у;ч;о;х;;;V;ХОТЕТЬ;V ipf praes sg indic - 1p;PUNC
+17;заметить;ЗАМЕТИТЬ;V pf - - inf - -;;;ь;т;и;т;е;м;V;ЗАМЕТИТЬ;V pf - - inf - -;CONJ
+18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;A - nom sg plen f -
+19;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ;S f inan acc sg
+20;современная;СОВРЕМЕННЫЙ;A - nom sg plen f -;;;я;а;н;н;е;м;A;СОВРЕМЕННЫЙ;A - nom sg plen f -;ADV -
+21;молодежь;МОЛОДЕЖЬ;S f inan nom sg;;;ь;ж;е;д;о;л;S;МОЛОДЕЖЬ;S f inan acc sg;PART
+22;абсолютно;АБСОЛЮТНО;ADV -;;;о;н;т;ю;л;о;ADV;АБСОЛЮТНО;ADV -;V ipf praes sg indic - 3p
+23;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PR
+24;думает;ДУМАТЬ;V ipf praes sg indic - 3p;;;т;е;а;м;у;д;V;ДУМАТЬ;V ipf praes sg indic - 3p;S n - loc sg
+25;о;О;PR;;;о;;;;;;PR;О;PR;PUNC
+26;том;ТО;SPRO n - loc sg;;;м;о;т;;;;S;ТО;S n - loc sg;PR
+27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;A - acc pl plen - inan
+28;на;НА;PR;;;а;н;;;;;PR;НА;PR;S m inan acc pl
+29;какие;КАКОЙ;APRO - acc pl ;;;е;и;к;а;к;;A;КАКОЙ;A - acc pl plen - inan;SPRO pl - - nom
+30;шиши;ШИШ;S m inan acc pl;;;и;ш;и;ш;;;S;ШИШ;S m inan acc pl;V ipf praes pl indic - 3p
+31;они;ОНИ;SPRO pl - - nom;;;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom;V ipf - - inf - -
+32;будут;БЫТЬ;V ipf fut pl indic - 3p;;;т;у;д;у;б;;V;БЫТЬ;V ipf praes pl indic - 3p;SENT
+33;жить;ЖИТЬ;V ipf - - inf - -;;;ь;т;и;ж;;;V;ЖИТЬ;V ipf - - inf - -;
+;;;;;;;;;;;;;;;S m inan gen sg
+1;за;ЗА;PR;;;а;з;;;;;PR;ЗА;PR;-
+2;эт..;ЭТО;nonlex;distort;;;;т;э;;;S;ЭТА..;S m inan gen sg;SENT
+3;за рубежом;за рубежом;PR + S m ins sg;раздельно предлог с сущ;;м;о;ж;е;б;у;-;за рубежом;-;
+4;.;.;SENT;;;;;;;;;SENT;.;SENT;S f anim nom sg
+;;;;;;;;;;;;;;;PUNC
+1;Ирина;ИРИНА;S f anim nom sg persn;;;а;н;и;р;и;;S;ИРИНА;S f anim nom sg;SPRO sg 1p - nom
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;V ipf praes sg indic - 1p
+3;Я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;V pf - - inf - -
+4;хочу;ХОТЕТЬ;V ipf praes sg indic - 1p;;;у;ч;о;х;;;V;ХОТЕТЬ;V ipf praes sg indic - 1p;SPRO pl 2p - dat
+5;сказать;СКАЗАТЬ;V pf - - inf - -;;;ь;т;а;з;а;к;V;СКАЗАТЬ;V pf - - inf - -;PUNC
+6;вам;ВЫ;SPRO pl 2p - dat;;;м;а;в;;;;SPRO;ВЫ;SPRO pl 2p - dat;S m anim nom pl
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+8;люди;ЧЕЛОВЕК;S m anim voc pl;;;и;д;ю;л;;;S;ЧЕЛОВЕК;S m anim nom pl;V pf fut pl indic - 2p
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+10;посмотрите;ПОСМОТРЕТЬ;V pf fut pl imper - 2p;;;е;т;и;р;т;о;V;ПОСМОТРЕТЬ;V pf fut pl indic - 2p;A - acc sg plen f -
+11;на;НА;PR;;;а;н;;;;;PR;НА;PR;S f inan acc sg
+12;нашу;НАШ;APRO - acc sg  f ;;;у;ш;а;н;;;A;НАШ;A - acc sg plen f -;PUNC
+13;страну;СТРАНА;S f inan acc sg;;;у;н;а;р;т;с;S;СТРАНА;S f inan acc sg;SPRO sg 3p f nom
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+15;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom;ADV comp
+16;гораздо;ГОРАЗДО;ADV -;;;о;д;з;а;р;о;ADV;ГОРАЗДО;ADV -;PUNC
+17;интереснее;ИНТЕРЕСНО;A comp;;;е;е;н;с;е;р;ADV;ИНТЕРЕСНО;ADV comp;PR
+18;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO pl 1p - loc
+19;у;У;PR;;;у;;;;;;PR;У;PR;ADV -
+20;нас;МЫ;SPRO pl 1p - loc;;;с;а;н;;;;SPRO;МЫ;SPRO pl 1p - loc;ADV comp
+21;гораздо;ГОРАЗДО;ADV -;;;о;д;з;а;р;о;ADV;ГОРАЗДО;ADV -;S f inan gen pl
+22;больше;МНОГО;ADV comp;;;е;ш;ь;л;о;б;ADV;МНОГО;ADV comp;PUNC
+23;возможностей;ВОЗМОЖНОСТЬ;S f inan gen pl;;;й;е;т;с;о;н;S;ВОЗМОЖНОСТЬ;S f inan gen pl;CONJ
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+25;да;ДА;PART;;;а;д;;;;;CONJ;ДА;CONJ;CONJ
+26;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf - pl imper - 1p
+27;если..;ЕСЛИ..;CONJ;;;;;и;л;с;е;CONJ;ЕСЛИ..;CONJ;PR
+28;начнем;НАЧАТЬ;V pf - pl fut - 1p;;;м;е;н;ч;а;н;V;НАЧАТЬ;V pf - pl imper - 1p;S m inan dat sg
+29;по;ПО;PR;;;о;п;;;;;PR;ПО;PR;PUNC
+30;порядку;ПОРЯДОК;S m inan dat sg;;;у;к;д;я;р;о;S;ПОРЯДОК;S m inan dat sg;SENT
+31;-;-;PUNC;;;;;;;;;PUNC;-;PUNC;
+32;.;.;SENT;;;;;;;;;SENT;.;SENT;ADV -
+;;;;;;;;;;;;;;;PUNC
+1;во-первых;ВО-ПЕРВЫХ;ADV;;;х;ы;в;р;е;п;ADV;ВО-ПЕРВЫХ;ADV -;S - - nom pl
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes pl indic - 3p
+3;все;ВСЕ;SPRO - - nom pl;;;е;с;в;;;;S;ВСЕ;S - - nom pl;PR
+4;говорят;ГОВОРИТЬ;V ipf praes pl indic - 3p;;;т;я;р;о;в;о;V;ГОВОРИТЬ;V ipf praes pl indic - 3p;S f inan acc sg
+5;про;ПРО;PR;;;о;р;п;;;;PR;ПРО;PR;PUNC
+6;экономику;ЭКОНОМИКА;S f inan acc sg;;;у;к;и;м;о;н;S;ЭКОНОМИКА;S f inan acc sg;CONJ
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO pl 2p - nom
+8;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ;V ipf praes pl indic - 2p
+9;вы;ВЫ;SPRO pl 2p - nom;;;ы;в;;;;;SPRO;ВЫ;SPRO pl 2p - nom;PUNC
+10;берете;БРАТЬ;V ipf praes pl indic - 2p;;;е;т;е;р;е;б;V;БРАТЬ;V ipf praes pl indic - 2p;V ipf praes pl indic - 2p
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+12;поступаете;ПОСТУПАТЬ;V ipf praes pl indic - 2p;;;е;т;е;а;п;у;V;ПОСТУПАТЬ;V ipf praes pl indic - 2p;A - acc sg plen m inan
+13;в;В;PR;;;в;;;;;;PR;В;PR;S m inan acc sg
+14;экономический;ЭКОНОМИЧЕСКИЙ;A - acc sg plen m inan;;;й;и;к;с;е;ч;A;ЭКОНОМИЧЕСКИЙ;A - acc sg plen m inan;CONJ
+15;вуз;ВУЗ;S m inan acc sg;;;з;у;в;;;;S;ВУЗ;S m inan acc sg;V ipf praes pl indic - 2p
+16;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;A - acc sg plen f -
+17;поднимаете;ПОДНИМАТЬ;V ipf praes pl indic - 2p;;;е;т;е;а;м;и;V;ПОДНИМАТЬ;V ipf praes pl indic - 2p;A - acc sg plen f -
+18;всю;ВЕСЬ; APRO- acc sg  f -;;;ю;с;в;;;;A;ВЕСЬ;A - acc sg plen f -;S f inan acc sg
+19;нашу;НАШ;APRO - acc pl  f -;;;у;ш;а;н;;;A;НАШ;A - acc sg plen f -;PR
+20;экономику;ЭКОНОМИКА;S f inan acc sg;;;у;к;и;м;о;н;S;ЭКОНОМИКА;S f inan acc sg;S m inan gen sg
+21;с;С;PR;;;с;;;;;;PR;С;PR;SENT
+22;нуля;НУЛЬ;S m inan gen sg;;;я;л;у;н;;;S;НУЛЬ;S m inan gen sg;
+23;!;!;SENT;;;;;;;;;SENT;!;SENT;S m inan nom sg
+;;;;;;;;;;;;;;;PART
+1;Хрен;ХРЕН;S m inan nom sg;;;н;е;р;х;;;S;ХРЕН;S m inan nom sg;V ipf - - inf - -
+2;ли;ЛИ;PART;;;и;л;;;;;PART;ЛИ;PART;PR
+3;жаловаться;ЖАЛОВАТЬСЯ;V ipf - - inf - -;;;я;с;ь;т;а;в;V;ЖАЛОВАТЬСЯ;V ipf - - inf - -;A - acc sg plen f -
+4;на;НА;PR;;;а;н;;;;;PR;НА;PR;S f inan acc sg
+5;эту;ЭТОТ;APRO - acc sg  f -;;;у;т;э;;;;A;ЭТОТ;A - acc sg plen f -;PUNC
+6;экономику;ЭКОНОМИКА;S f inan acc sg;;;у;к;и;м;о;н;S;ЭКОНОМИКА;S f inan acc sg;SENT
+7;.;.;SENT;;;;;;;;;SENT;.;SENT;S f inan acc sg
+;;;;;;;;;;;;;;;V ipf praes pl indic - 1p
+1;экономику;ЭКОНОМИКА;S f inan acc sg;;;у;к;и;м;о;н;S;ЭКОНОМИКА;S f inan acc sg;A - nom pl plen - -
+2;строим;СТРОИТЬ;V ipf praes pl indic - 1p;;;м;и;о;р;т;с;V;СТРОИТЬ;V ipf praes pl indic - 1p;SPRO pl 1p - nom
+3;все;ВЕСЬ;APRO - nom pl  nom;;;е;с;в;;;;A;ВЕСЬ;A - nom pl plen - -;PUNC
+4;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom;CONJ
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+6;когда;КОГДА;CONJ;;;а;д;г;о;к;;CONJ;КОГДА;CONJ;S n - gen sg
+7;вместо;ВМЕСТО;PR;;;о;т;с;е;м;в;PR;ВМЕСТО;PR;PUNC
+8;того;ТОТ;APRO m - gen sg;;;о;г;о;т;;;S;ТО;S n - gen sg;CONJ
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf - - inf - -
+10;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ;V ipf - - inf - -
+11;пойти;ПОЙТИ;V pf - - inf -;;;и;т;й;о;п;;V;ПОЙТИ;V pf - - inf - -;PR
+12;работать;РАБОТАТЬ;V ipf - - inf - -;;;ь;т;а;т;о;б;V;РАБОТАТЬ;V ipf - - inf - -;S m inan acc pl
+13;на;НА;PR;;;а;н;;;;;PR;НА;PR;PUNC
+14;заводы;ЗАВОД;S m inan acc pl;;;ы;д;о;в;а;з;S;ЗАВОД;S m inan acc pl;A - nom pl plen - -
+15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf fut pl indic - 3p
+16;которые;КОТОРЫЙ;APRO - acc pl ;;;е;ы;р;о;т;о;A;КОТОРЫЙ;A - nom pl plen - -;A - acc sg plen f -
+17;поднимут;ПОДНЯТЬ;V pf fut pl indic - 3p;;;т;у;м;и;н;д;V;ПОДНЯТЬ;V pf fut pl indic - 3p;S f inan acc sg
+18;эту;ЭТОТ;APRO- acc sg  f -;;;у;т;э;;;;A;ЭТОТ;A - acc sg plen f -;PUNC
+19;экономику;ЭКОНОМИКА;S f inan acc sg;;;у;к;и;м;о;н;S;ЭКОНОМИКА;S f inan acc sg;S - - nom pl
+20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes pl indic - 3p
+21;все;ВСЕ;SPRO - - nom pl;;;е;с;в;;;;S;ВСЕ;S - - nom pl;PUNC
+22;идут;ИДТИ;V ipf praes pl indic - 3p;;;т;у;д;и;;;V;ИДТИ;V ipf praes pl indic - 3p;S m inan nom sg
+23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+24;блин;БЛИН;PARENTH;;;н;и;л;б;;;S;БЛИН;S m inan nom sg;PR
+25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;A - gen pl plen - -
+26;на;НА;PR;;;а;н;;;;;PR;НА;PR;S m anim gen pl
+27;каких-нибудь;КАКОЙ-НИБУДЬ;APRO - gen pl ;;;ь;д;у;б;и;н;A;КАКОЙ-НИБУДЬ;A - gen pl plen - -;PUNC
+28;юристов;ЮРИСТ;S m anim gen pl;;;в;о;т;с;и;р;S;ЮРИСТ;S m anim gen pl;ZERO
+29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S n - nom sg
+30;потому что;потому что;CONJ;;;о;т;ч; ;у;м;ZERO;потому что;ZERO;PUNC
+31;это;ЭТО;SPRO n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg;SENT
+32;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+;;;;;;;;;;;;;;;PUNC
+1;блин;БЛИН;PARENTH;;;н;и;л;б;;;S;БЛИН;S m inan acc sg;S n - nom sg
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;A comp - - plen - -
+3;это;ЭТО;SPRO n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg;PUNC
+4;проще;ПРОСТОЙ;A comp ;;;е;щ;о;р;п;;A;ПРОСТОЙ;A comp - - plen - -;S - - nom pl
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes pl indic - 3p
+6;все;ВCЕ;SPRO - - nom pl;;;е;с;в;;;;S;ВСЕ;S - - nom pl;S - - - -
+7;ищут..;ИСКАТЬ..;V ipf praes pl indic - 3p;;;;;т;у;щ;и;V;ИСКАТЬ..;V ipf praes pl indic - 3p;ADV -
+8;пр...;ПР...;nonlex;distort;;;;;р;п;;S;ПР...;S - - - -;V ipf praes pl indic - 3p
+9;все;ВСЕ;SPRO - - nom pl;;;е;с;в;;;;ADV;ВСЕ;ADV -;S n - acc sg
+10;ищут;ИСКАТЬ;V ipf praes pl indic - 3p;;;т;у;щ;и;;;V;ИСКАТЬ;V ipf praes pl indic - 3p;CONJ
+11;всё;ВСЕ;SPRO acc ;;;ё;с;в;;;;S;ВСЕ;S n - acc sg;A comp - - plen - -
+12;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ;SENT
+13;попроще;ПРОСТОЙ;A comp - - ;;;е;щ;о;р;п;о;A;ПРОСТОЙ;A comp - - plen - -;
+14;.;.;SENT;;;;;;;;;SENT;.;SENT;S f anim nom sg
+;;;;;;;;;;;;;;;PUNC
+1;Ирина;ИРИНА;S f anim nom sg persn;;;а;н;и;р;и;;S;ИРИНА;S f anim nom sg;ADV -
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;PART
+3;Опять;ОПЯТЬ;ADV -;;;ь;т;я;п;о;;ADV;ОПЯТЬ;ADV -;PUNC
+4;же;ЖЕ;PART;;;е;ж;;;;;PART;ЖЕ;PART;V pf fut sg indic - 1p
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+6;приведу;ПРИВЕСТИ;V pf fut sg indic - 1p;;;у;д;е;в;и;р;V;ПРИВЕСТИ;V pf fut sg indic - 1p;S m inan acc sg
+7;в;В;PR;;;в;;;;;;PR;В;PR;A - acc sg plen f -
+8;пример;ПРИМЕР;S m inan acc sg;;;р;е;м;и;р;п;S;ПРИМЕР;S m inan acc sg;S f anim acc sg
+9;мою;МОЙ;APRO - acc sg plen f -;;;ю;о;м;;;;A;МОЙ;A - acc sg plen f -;PUNC
+10;сестру;СЕСТРА;S f anim acc sg;;;у;р;т;с;е;с;S;СЕСТРА;S f anim acc sg;SPRO sg 3p f nom
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf praet sg indic f -
+12;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom;S f inan nom sg
+13;выбрала;ВЫБРАТЬ;V pf praet sg indic f -;;;а;л;а;р;б;ы;V;ВЫБРАТЬ;V pf praet sg indic f -;PUNC
+14;специальность;СПЕЦИАЛЬНОСТЬ;S f inan acc sg;;;ь;т;с;о;н;ь;S;СПЕЦИАЛЬНОСТЬ;S f inan nom sg;A - acc sg plen f -
+15;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+16;которую;КОТОРЫЙ;APRO - acc sg f -;;;ю;у;р;о;т;о;A;КОТОРЫЙ;A - acc sg plen f -;V ipf praet sg indic n -
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+18;казалось;КАЗАТЬСЯ;V praet imp n sg;;;ь;с;о;л;а;з;V;КАЗАТЬСЯ;V ipf praet sg indic n -;PR
+19;бы;БЫ;PART;;;ы;б;;;;;PART;БЫ;PART;S m inan dat sg
+20;по;ПО;PR;;;о;п;;;;;PR;ПО;PR;PUNC
+21;темпераменту;ТЕМПЕРАМЕНТ;S m inan dat sg;;;у;т;н;е;м;а;S;ТЕМПЕРАМЕНТ;S m inan dat sg;ADV -
+22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+23;нет;НЕТ;PART -;;;т;е;н;;;;ADV;НЕТ;ADV -;SENT
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+25;.;.;SENT;;;;;;;;;SENT;.;SENT;PART
+;;;;;;;;;;;;;;;PR
+1;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;S m inan dat sg
+2;по;ПО;PR;;;о;п;;;;;PR;ПО;PR;PUNC
+3;темпераменту;ТЕМПЕРАМЕНТ;S m inan dat sg;;;у;т;н;е;м;а;S;ТЕМПЕРАМЕНТ;S m inan dat sg;A - nom sg plen f -
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV comp
+5;которая;КОТОРЫЙ;APRO - nom sg  f -;;;я;а;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen f -;PR
+6;скорее;СКОРО;ADV comp;;;е;е;р;о;к;с;ADV;СКОРО;ADV comp;S n inan dat sg
+7;по;ПО;PR;;;о;п;;;;;PR;ПО;PR;PART
+8;направлению;НАПРАВЛЕНИЕ;S n inan dat sg;;;ю;и;н;е;л;в;S;НАПРАВЛЕНИЕ;S n inan dat sg;ADV -
+9;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;SPRO sg 3p f dat
+10;совсем;СОВСЕМ;ADV -;;;м;е;с;в;о;с;ADV;СОВСЕМ;ADV -;V ipf praes sg indic - 3p
+11;ей;ОНА;SPRO sg 3p f dat;;;й;е;;;;;SPRO;ОНА;SPRO sg 3p f dat;PUNC
+12;подходит;ПОДХОДИТЬ;V ipf praes sg indic - 3p;;;т;и;д;о;х;д;V;ПОДХОДИТЬ;V ipf praes sg indic - 3p;CONJ
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S - - nom pl
+14;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ;V ipf praet pl indic - -
+15;все;ВECЬ;SPRO nom pl;;;е;с;в;;;;S;ВСЕ;S - - nom pl;PUNC
+16;считали;СЧИТАТЬ;V ipf praet pl indic - -;;;и;л;а;т;и;ч;V;СЧИТАТЬ;V ipf praet pl indic - -;CONJ
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+18;поскольку;ПОСКОЛЬКУ;CONJ;;;у;к;ь;л;о;к;CONJ;ПОСКОЛЬКУ;CONJ;ADV -
+19;там;ТАМ;ADVPRO;;;м;а;т;;;;ADV;ТАМ;ADV -;ADV -
+20;довольно;ДОВОЛЬНО;ADV -;;;о;н;ь;л;о;в;ADV;ДОВОЛЬНО;ADV -;S f inan gen sg
+21;много;МНОГО;ADV -;;;о;г;о;н;м;;ADV;МНОГО;ADV -;PUNC
+22;математики;МАТЕМАТИКА;S f inan gen sg;;;и;к;и;т;а;м;S;МАТЕМАТИКА;S f inan gen sg;S f inan gen sg
+23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+24;информатики;ИНФОРМАТИКА;S f inan gen sg;;;и;к;и;т;а;м;S;ИНФОРМАТИКА;S f inan gen sg;PART
+25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+26;не..;НЕ..;PART;;;;;е;н;;;PART;НЕ..;PART;S f inan gen sg
+27;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+28;информатики;ИНФОРМАТИКА;S f inan gen sg;;;и;к;и;т;а;м;S;ИНФОРМАТИКА;S f inan gen sg;SENT
+29;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+;;;;;;;;;;;;;;;V ipf praes sg indic - 1p
+1;возможно;ВОЗМОЖНО;PARENTH ;;;о;н;ж;о;м;з;ADV;ВОЗМОЖНО;ADV -;PUNC
+2;ошибаюсь;ОШИБАТЬСЯ;V ipf praes sg indic - 1p;;;ь;с;ю;а;б;и;V;ОШИБАТЬСЯ;V ipf praes sg indic - 1p;CONJ
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+4;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ;S n inan gen sg
+5;там;ТАМ;ADVPRO;;;м;а;т;;;;ADV;ТАМ;ADV -;ADV -
+6;программирования;ПРОГРАММИРОВАНИЕ;S n inan gen sg;;;я;и;н;а;в;о;S;ПРОГРАММИРОВАНИЕ;S n inan gen sg;S - - - -
+7;так;ТАК;ADVPRO;;;к;а;т;;;;ADV;ТАК;ADV -;ADV comp2
+8;пр..;ПР..;nonflex;distort;;;;р;п;;;S;ПР..;S - - - -;V pf - - inf - -
+9;понятнее;ПОНЯТНО;ADV comp;;;е;е;н;т;я;н;ADV;ПОНЯТНО;ADV comp2;CONJ
+10;сказать;СКАЗАТЬ;V pf - - inf - -;;;ь;т;а;з;а;к;V;СКАЗАТЬ;V pf - - inf - -;ADV comp
+11;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;PUNC
+12;правильнее;ПРАВИЛЬНО;ADV comp;;;е;е;н;ь;л;и;ADV;ПРАВИЛЬНО;ADV comp;CONJ
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 1p - nom
+14;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ;V ipf praes sg indic - 1p
+15;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;CONJ
+16;вижу;ВИДЕТЬ;V ipf praes sg indic - 1p;;;у;ж;и;в;;;V;ВИДЕТЬ;V ipf praes sg indic - 1p;SPRO sg 3p f nom
+17;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ;PR
+18;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom;S m inan gen sg
+19;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR;PR
+20;вечера;ВЕЧЕР;S m inan gen sg;;;а;р;е;ч;е;в;S;ВЕЧЕР;S m inan gen sg;S m inan acc sg
+21;в;В;PR;;;в;;;;;;PR;В;PR;PR
+22;вечер;ВЕЧЕР;S m inan acc sg;;;р;е;ч;е;в;;S;ВЕЧЕР;S m inan acc sg;S f inan loc pl
+23;в;В;PR;;;в;;;;;;PR;В;PR;PART
+24;скобках;СКОБКА;S f inan loc pl;;;х;а;к;б;о;к;S;СКОБКА;S f inan loc pl;S f inan nom sg
+25;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+26;реклама;РЕКЛАМА;S f inan  acc sg;;;а;м;а;л;к;е;S;РЕКЛАМА;S f inan nom sg;SPRO sg 3p f nom
+27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes sg indic - 3p
+28;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom;CONJ
+29;сидит;СИДЕТЬ;V ipf praes sg indic - 3p;;;т;и;д;и;с;;V;СИДЕТЬ;V ipf praes sg indic - 3p;V ipf praes sg indic - 3p
+30;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;S m inan nom sg
+31;занимается;ЗАНИМАТЬСЯ;V ipf praes sg indic - 3p;;;я;с;т;е;а;м;V;ЗАНИМАТЬСЯ;V ipf praes sg indic - 3p;SENT
+32;спойлер;СПОЙЛЕР;S m inan nom sg;;;р;е;л;й;о;п;S;СПОЙЛЕР;S m inan nom sg;
+;;;;;;;;;;;;;;;V ipf praes sg indic - 3p
+1;она;ОНА;SPRO sg 3p f nom;;;а;н;о;;;;SPRO;ОНА;SPRO sg 3p f nom;V pf - - inf - -
+2;хочет;ХОТЕТЬ;V ipf praes sg indic - 3p;;;т;е;ч;о;х;;V;ХОТЕТЬ;V ipf praes sg indic - 3p;A - acc sg plen n -
+3;получить;ПОЛУЧИТЬ;V pf - - inf - -;;;ь;т;и;ч;у;л;V;ПОЛУЧИТЬ;V pf - - inf - -;A supr nom sg plen n -
+4;это;ЭТОТ;APRO n sg nom;;;о;т;э;;;;A;ЭТОТ;A - acc sg plen n -;S n inan nom sg
+5;высшее;ВЫСОКИЙ;A supr nom sg  n -;;;е;е;ш;с;ы;в;A;ВЫСШИЙ;A supr nom sg plen n -;PUNC
+6;образование;ОБРАЗОВАНИЕ;S n inan nom sg;;;е;и;н;а;в;о;S;ОБРАЗОВАНИЕ;S n inan nom sg;NONLEX
+7;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+8;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;PUNC
+9;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX;12
+10;=;=;PUNC;;;;;;;;;PUNC;=;PUNC;ADV -
+11;"	";_;;;;;;;;;;;_;12;12
+12;зачём;ЗАЧЕМ;ADV -;anom;;м;ё;ч;а;з;;ADV;ЗАЧЕМ;ADV -;PUNC
+13;"	";_;;;;;;;;;;;_;12;ADV -
+14;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;PUNC
+15;зачем;ЗАЧЕМ;ADV -;;;м;е;ч;а;з;;ADV;ЗАЧЕМ;ADV -;PUNC
+16;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+17;/;/;PUNC;;;;;;;;;PUNC;/;PUNC;PUNC
+18;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;SPRO sg 3p n nom
+19;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;SPRO sg 3p f dat
+20;оно;ОНО;SPRO sg 3p n nom;;;о;н;о;;;;SPRO;ОНО;SPRO sg 3p n nom;A - - sg brev n -
+21;ей;ОНА;SPRO sg 3p f dat;;;й;е;;;;;SPRO;ОНА;SPRO sg 3p f dat;PUNC
+22;нужно;НУЖНЫЙ;A - - sg brev n -;;;о;н;ж;у;н;;A;НУЖНЫЙ;A - - sg brev n -;SPRO sg 1p - nom
+23;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+24;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;V ipf praes sg indic - 1p
+25;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+26;знаю;ЗНАТЬ;V ipf praes sg indic - 1p;;;ю;а;н;з;;;V;ЗНАТЬ;V ipf praes sg indic - 1p;ADV -
+27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 1p - loc
+28;лично;ЛИЧНО;ADV -;;;о;н;ч;и;л;;ADV;ЛИЧНО;ADV -;SPRO sg 3p n nom
+29;мне;Я;SPRO sg 1p - dat;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc;ADV -
+30;оно;ОНО;SPRO sg 3p n nom;;;о;н;о;;;;SPRO;ОНО;SPRO sg 3p n nom;PUNC
+31;как-то;КАК-ТО;ADV -;;;о;т;;к;а;к;ADV;КАК-ТО;ADV -;SPRO sg 1p - nom
+32;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+33;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;V ipf praes sg indic - 1p
+34;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;V pf - sg imper - 2p
+35;могу;МОЧЬ;V ipf praes sg indic - 1p;;;у;г;о;м;;;V;МОЧЬ;V ipf praes sg indic - 1p;PART
+36;выговори..;ВЫГОВОРИТЬ..;NONFLEX;;;;;и;р;о;в;V;ВЫГОВОРИТЬ..;V pf - sg imper - 2p;V ipf praes sg indic - 1p
+37;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;V ipf - - inf - -
+38;могу;МОЧЬ;V ipf praes sg indic - 1p;;;у;г;о;м;;;V;МОЧЬ;V ipf praes sg indic - 1p;A - acc sg plen n -
+39;говорить;ГОВОРИТЬ;V ipf - - inf - -;;;ь;т;и;р;о;в;V;ГОВОРИТЬ;V ipf - - inf - -;S n inan nom sg
+40;это;ЭТОТ;APRO n sg acc;;;о;т;э;;;;A;ЭТОТ;A - acc sg plen n -;PUNC
+41;слово;СЛОВО;S n inan acc  sg;;;о;в;о;л;с;;S;СЛОВО;S n inan nom sg;SENT
+42;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+;;;;;;;;;;;;;;;A - nom sg plen n -
+1;слишком;СЛИШКОМ;ADV -;;;м;о;к;ш;и;л;ADV;СЛИШКОМ;ADV -;S n inan nonflex nonflex
+2;цензурное;ЦЕНЗУРНЫЙ;A - nom sg plen n -;;;е;о;н;р;у;з;A;ЦЕНЗУРНЫЙ;A - nom sg plen n -;ADV -
+3;видео;ВИДЕО;S n inan nonflex nonflex;;;о;е;д;и;в;;S;ВИДЕО;S n inan nonflex nonflex;V pf - - inf - -
+4;должно;ДОЛЖНО;ADV -;;;о;н;ж;л;о;д;ADV;ДОЛЖНО;ADV -;SENT
+5;получиться;ПОЛУЧИТЬСЯ;V pf - - inf - -;;;я;с;ь;т;и;ч;V;ПОЛУЧИТЬСЯ;V pf - - inf - -;
+6;.;.;SENT;;;;;;;;;SENT;.;SENT;S m anim nom sg
+;;;;;;;;;;;;;;;PUNC
+1;Интервьюер;ИНТЕРВЬЮЕР;S m anim nom sg;;;р;е;ю;ь;в;р;S;ИНТЕРВЬЮЕР;S m anim nom sg;PUNC
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;NONLEX
+3;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+4;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;PUNC
+5;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX;8
+6;=;=;PUNC;;;;;;;;;PUNC;=;PUNC;PART
+7;"	";_;;;;;;;;;;;_;8;8
+8;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+9;"	";_;;;;;;;;;;;_;8;PART
+10;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;PUNC
+11;нет;НЕТ;PART;;;т;е;н;;;;PART;НЕТ;PART;PUNC
+12;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+13;/;/;PUNC;;;;;;;;;PUNC;/;PUNC;PUNC
+14;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;PUNC
+15;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;PART
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 2p - nom
+17;ну;НУ;PART;;;у;н;;;;;PART;НУ;PART;V ipf - sg imper - 2p
+18;ты;ТЫ;SPRO sg 2p - nom;;;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom;PUNC
+19;говори;ГОВОРИТЬ;V ipf - sg imper - 2p;;;и;р;о;в;о;г;V;ГОВОРИТЬ;V ipf - sg imper - 2p;SPRO sg 1p - nom
+20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+21;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;SPRO sg 1p - nom
+22;за..;ЗА..;nonflex;;;;;а;з;;;PR;ЗА..;PR;S m inan dat sg
+23;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;SENT
+24;закрою;ЗАКРЫТЬ;V pf - sg fut 1p;;;ю;о;р;к;а;з;S;ЗАКРОЙ;S m inan dat sg;
+25;.;.;SENT;;;;;;;;;SENT;.;SENT;S f anim nom sg
+;;;;;;;;;;;;;;;PUNC
+1;Ирина;ИРИНА;S f anim nom sg persn;;;а;н;и;р;и;;S;ИРИНА;S f anim nom sg;PART
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;ADV -
+3;Не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PR
+4;надо.;НАДО.;ADV -;;;;о;д;а;н;;ADV;НАДО.;ADV -;A - loc sg plen m -
+5;В;В;PR;;;в;;;;;;PR;В;PR;S m inan loc sg
+6;современном;СОВРЕМЕННЫЙ;A - loc2 sg plen m -;;;м;о;н;н;е;м;A;СОВРЕМЕННЫЙ;A - loc sg plen m -;ADV -
+7;мире;МИР;S m inan loc2 sg;;;е;р;и;м;;;S;МИР;S m inan loc sg;V pf - - inf - -
+8;нельзя;НЕЛЬЗЯ;ADV -;;;я;з;ь;л;е;н;ADV;НЕЛЬЗЯ;ADV -;S m anim acc sg
+9;найти;НАЙТИ;V pf - - inf - -;;;и;т;й;а;н;;V;НАЙТИ;V pf - - inf - -;PUNC
+10;человека;ЧЕЛОВЕК;S m anim acc sg;;;а;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim acc sg;A - nom sg plen m -
+11;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+12;который;КОТОРЫЙ;APRO nom sg  m -;;;й;ы;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen m -;PART
+13;бы;БЫ;PART;;;ы;б;;;;;PART;БЫ;PART;V ipf praet sg indic m -
+14;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;S m inan ins sg
+15;пользовался;ПОЛЬЗОВАТЬСЯ;V ipf praet sg indic m -;;;я;с;л;а;в;о;V;ПОЛЬЗОВАТЬСЯ;V ipf praet sg indic m -;ADV -
+16;интернетом.;ИНТЕРНЕТ.;S m inan ins sg;;;;м;о;т;е;н;S;ИНТЕРНЕТ.;S m inan ins sg;PR
+17;Почти;ПОЧТИ;ADV -;;;и;т;ч;о;п;;ADV;ПОЧТИ;ADV -;A - gen sg plen m -
+18;у;У;PR;;;у;;;;;;PR;У;PR;V ipf praes sg indic - 3p
+19;каждого;КАЖДЫЙ;APRO - gen sg  m -;;;о;г;о;д;ж;а;A;КАЖДЫЙ;A - gen sg plen m -;A - nom sg plen m -
+20;есть;БЫТЬ;V ipf praes  indic -;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p;S m inan nom sg
+21;какой-то;КАКОЙ-ТО;APRO m nom sg;;;о;т;;й;о;к;A;КАКОЙ-ТО;A - nom sg plen m -;ZERO
+22;гаджет;ГАДЖЕТ;S m inan nom sg;;;т;е;ж;д;а;г;S;ГАДЖЕТ;S m inan nom sg;S m inan gen sg
+23;в виде;в виде;PR+S m loc sg;Предлог и сущ. должны быть в разных ячейках!;;е;д;и;в; ;в;ZERO;в виде;ZERO;PUNC
+24;телефона;ТЕЛЕФОН;S m inan gen sg;;;а;н;о;ф;е;л;S;ТЕЛЕФОН;S m inan gen sg;S m inan gen sg
+25;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+26;планшета;ПЛАНШЕТ;S m inan gen sg;;;а;т;е;ш;н;а;S;ПЛАНШЕТ;S m inan gen sg;S m inan gen sg
+27;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SENT
+28;ноутбука;НОУТБУК;S m inan gen sg;;;а;к;у;б;т;у;S;НОУТБУК;S m inan gen sg;
+29;.;.;SENT;;;;;;;;;SENT;.;SENT;CONJ
+;;;;;;;;;;;;;;;S m inan gen sg
+1;или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ;PUNC
+2;компьютера;КОМПЬЮТЕР;S m inan gen sg;;;а;р;е;т;ю;ь;S;КОМПЬЮТЕР;S m inan gen sg;ADV -
+3;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+4;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -;PUNC
+5;вот;ВОТ;PART;;;т;о;в;;;;PART;ВОТ;PART;ADV -
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO pl 1p - nom
+7;сегодня;СЕГОДНЯ;ADV -;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -;V ipf praes pl indic - 1p
+8;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom;V pf - - inf - -
+9;хотим;ХОТЕТЬ;V ipf praes pl indic - 1p;;;м;и;т;о;х;;V;ХОТЕТЬ;V ipf praes pl indic - 1p;A - acc sg plen f -
+10;обсудить;ОБСУДИТЬ;V pf - - inf - -;;;ь;т;и;д;у;с;V;ОБСУДИТЬ;V pf - - inf - -;S f inan acc sg
+11;такую;ТАКОЙ;APPRO - acc sg  f -;;;ю;у;к;а;т;;A;ТАКОЙ;A - acc sg plen f -;ADV -
+12;тему;ТЕМА;S f inan acc sg;;;у;м;е;т;;;S;ТЕМА;S f inan acc sg;S n inan nonflex nonflex
+13;как;КАК;ADV -;;;к;а;к;;;;ADV;КАК;ADV -;SENT
+14;ээм;ЭЭМ;INTJ nonlex;;;м;э;э;;;;S;ЭЭМ;S n inan nonflex nonflex;
+;;;;;;;;;;;;;;;A - acc pl plen - inan
+1;"	";_;;;;;;;;;;;_;2;S f inan acc pl
+2;социальные;СОЦИАЛЬНЫЙ;A - acc pl plen ;;;е;ы;н;ь;л;а;A;СОЦИАЛЬНЫЙ;A - acc pl plen - inan;3
+3;сети;СЕТЬ;S f inan acc pl;;;и;т;е;с;;;S;СЕТЬ;S f inan acc pl;A - nom pl plen - -
+4;".	.";_;SENT;;;;;;;;;;_;3;S f inan nom pl
+5;Социальные;СОЦИАЛЬНЫЙ;A - nom pl plen - -;;;е;ы;н;ь;л;а;A;СОЦИАЛЬНЫЙ;A - nom pl plen - -;ADV -
+6;сети;СЕТЬ;S f inan nom pl;;;и;т;е;с;;;S;СЕТЬ;S f inan nom pl;PARTCP pf praet - pl brev - pass -
+7;настолько;НАСТОЛЬКО;ADV -;;;о;к;ь;л;о;т;ADV;НАСТОЛЬКО;ADV -;PUNC
+8;распространены;РАСПРОСТРАНИТЬ;PARTCP pf praet - pl brev - pass -;;;ы;н;е;н;а;р;PARTCP;РАСПРОСТРАНИТЬ;PARTCP pf praet - pl brev - pass -;CONJ
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+10;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ;PR
+11;почти;ПОЧТИ;ADV -;;;и;т;ч;о;п;;ADV;ПОЧТИ;ADV -;A - gen sg plen m -
+12;у;У;PR;;;у;;;;;;PR;У;PR;V ipf praes sg indic - 3p
+13;каждого;КАЖДЫЙ;APRO - gen sg  m -;;;о;г;о;д;ж;а;A;КАЖДЫЙ;A - gen sg plen m -;S f inan nom sg
+14;есть;БЫТЬ;V ipf praes sg indic ;;;ь;т;с;е;;;V;БЫТЬ;V ipf praes sg indic - 3p;SENT
+15;страничка;СТРАНИЧКА;S f inan nom sg gen;;;а;к;ч;и;н;а;S;СТРАНИЧКА;S f inan nom sg;
+16;.;.;SENT;;;;;;;;;SENT;.;SENT;2
+;;;;;;;;;;;;;;;S m inan loc sg
+1;"	";_;;;;;;;;;;;_;2;2
+2;Вконтакте;ВКОНТАКТЕ;nonflex;Название соц.сети;;е;т;к;а;т;н;S;ВКОНТАКТЕ;S m inan loc sg;PUNC
+3;"	";_;;;;;;;;;;;_;2;S f inan nom sg
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+5;аккаунт;АККАУНТ;S m inan nom sg gen;;;т;н;у;а;к;к;S;АККАУНТ;S f inan nom sg;S f inan acc sg
+6;в;В;PR;;;в;;;;;;PR;В;PR;CONJ
+7;инстаграмме;ИНСТАГРАММА;S m inan loc2 sg;Название соц.сети,но хотя бы возможно определить формы слова;;е;м;м;а;р;г;S;ИНСТАГРАММА;S f inan acc sg;S m inan loc sg
+8;или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ;S m inan gen sg
+9;фейсбуке;ФЕЙСБУК;S m inan loc2 sg;Название соц.сети,но хотя бы возможно определить формы слова;;е;к;у;б;с;й;S;ФЕЙСБУК;S m inan loc sg;PART
+10;иии;ИИИ;S m inan gen sg;;;и;и;и;;;;S;ИИИ;S m inan gen sg;PART
+11;даже;ДАЖЕ;PART;;;е;ж;а;д;;;PART;ДАЖЕ;PART;A - nom sg plen f -
+12;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+13;одна;ОДИН;ANUM ;;;а;н;д;о;;;A;ОДИН;A - nom sg plen f -;ADV comp
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S n - gen sg
+15;чаще;ЧАСТО;ADV comp;;;е;щ;а;ч;;;ADV;ЧАСТО;ADV comp;S m - nom sg
+16;всего;ВСЕ;S n - gen sg;;;о;г;е;с;в;;S;ВСЕ;S n - gen sg;V ipf praes sg indic - 3p
+17;кто-нибудь;КТО-НИБУДЬ;S m - nom sg;;;ь;д;у;б;и;н;S;КТО-НИБУДЬ;S m - nom sg;ADV -
+18;создает;СОЗДАВАТЬ;V ipf praes sg indic - 3p;;;т;е;а;д;з;о;V;СОЗДАВАТЬ;V ipf praes sg indic - 3p;A - nom pl plen - -
+19;еще;ЕЩЕ;ADV -;;;е;щ;е;;;;ADV;ЕЩЕ;ADV -;PUNC
+20;дополнительные;ДОПОЛНИТЕЛЬНЫЙ;A - nom pl plen - -;;;е;ы;н;ь;л;е;A;ДОПОЛНИТЕЛЬНЫЙ;A - nom pl plen - -;ADV -
+21;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PARTCP ipf inpraes acc pl plen - pass inan
+22;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -;25
+23;называемые;НАЗЫВАТЬ;PARTCP ipf inpraes acc pl plen - pass inan;;;е;ы;м;е;а;в;PARTCP;НАЗЫВАТЬ;PARTCP ipf inpraes acc pl plen - pass inan;A - gen sg plen m -
+24;"	";_;;;;;;;;;;;_;25;25
+25;фейковые;ФЕЙКОВЫЙ;A - acc pl plen m -;;;е;ы;в;о;к;й;A;ФЕЙКОВЫЙ;A - gen sg plen m -;S f inan gen sg
+26;"	";_;;;;;;;;;;;_;25;PUNC
+27;страницы;СТРАНИЦА;S f inan acc pl;;;ы;ц;и;н;а;р;S;СТРАНИЦА;S f inan gen sg;A - gen sg plen f -
+28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SENT
+29;другой;ДРУГОЙ;APRO - nom sg  m;;;й;о;г;у;р;д;A;ДРУГОЙ;A - gen sg plen f -;
+;;;;;;;;;;;;;;;3
+1;вопрос;ВОПРОС;S m inan nom sg;;;с;о;р;п;о;в;S;ВОПРОС;S m inan nom sg;PR
+2;"	";_;;;;;;;;;;;_;3;S n - gen sg
+3;Для;ДЛЯ;PR;;;я;л;д;;;;PR;ДЛЯ;PR;PUNC
+4;чего;ЧТО;SPRO gen ;;;о;г;е;ч;;;S;ЧТО;S n - gen sg;5
+5;?;?;SENT;;;;;;;;;PUNC;?;PUNC;PUNC
+6;"	";_;;;;;;;;;;;_;5;S m inan nonflex nonflex
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf fut pl indic - 2p
+8;ноо;НОО;S m inan nonflex nonflex;;;о;о;н;;;;S;НОО;S m inan nonflex nonflex;PR
+9;спросите;СПРОСИТЬ;V pf fut pl imper - 2p;;;е;т;и;с;о;р;V;СПРОСИТЬ;V pf fut pl indic - 2p;PR
+10;на..;НА..;nonlex;;;;;а;н;;;PR;НА..;PR;A - gen pl plen - -
+11;у;У;PR;;;у;;;;;;PR;У;PR;PUNC
+12;тех;ТОТ;APRO - gen pl ;;;х;е;т;;;;A;ТОТ;A - gen pl plen - -;S m - nom sg
+13;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S n inan acc sg
+14;кто;КТО;SPRO  nom;;;о;т;к;;;;S;КТО;S m - nom sg;V ipf praes sg indic - 3p
+15;это;ЭТО;SPRO acc sg;;;о;т;э;;;;S;ЭТО;S n inan acc sg;PUNC
+16;знает;ЗНАТЬ;V ipf praes sg indic - 3p;;;т;е;а;н;з;;V;ЗНАТЬ;V ipf praes sg indic - 3p;CONJ
+17;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+18;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ;SPRO pl 1p - nom
+19;сегодня;СЕГОДНЯ;ADV -;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -;V ipf praes pl indic - 1p
+20;мы;МЫ;SPRO pl 1p - nom;;;ы;м;;;;;SPRO;МЫ;SPRO pl 1p - nom;V pf - - inf - -
+21;хотим;ХОТЕТЬ;V ipf praes pl indic - 1p;;;м;и;т;о;х;;V;ХОТЕТЬ;V ipf praes pl indic - 1p;ADV -
+22;обсудить;ОБСУДИТЬ;V pf - - inf - -;;;ь;т;и;д;у;с;V;ОБСУДИТЬ;V pf - - inf - -;ADV -
+23;более;БОЛЕЕ;ADV -;;;е;е;л;о;б;;ADV;БОЛЕЕ;ADV -;CONJ
+24;подробно;ПОДРОБНО;ADV -;;;о;н;б;о;р;д;ADV;ПОДРОБНО;ADV -;PUNC
+25;то;ТО;CONJ;;;о;т;;;;;CONJ;ТО;CONJ;S n inan acc sg
+26;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+27;что;ЧТО;SPRO  nom sg;;;о;т;ч;;;;S;ЧТО;S n inan acc sg;V ipf praes sg indic - 3p
+28;же;ЖЕ;PART;;;е;ж;;;;;PART;ЖЕ;PART;A - gen pl plen - -
+29;привлекает;ПРИВЛЕКАТЬ;V ipf praes sg indic - 3p;;;т;е;а;к;е;л;V;ПРИВЛЕКАТЬ;V ipf praes sg indic - 3p;S m anim gen pl
+30;молодых;МОЛОДОЙ;A - gen pl plen - -;;;х;ы;д;о;л;о;A;МОЛОДОЙ;A - gen pl plen - -;PR
+31;людей;ЧЕЛОВЕК;S m anim gen pl;;;й;е;д;ю;л;;S;ЧЕЛОВЕК;S m anim gen pl;A - gen sg plen f -
+32;в;В;PR;;;в;;;;;;PR;В;PR;S f inan gen sg
+33;такой;ТАКОЙ;APRO - loc2 sg f -;;;й;о;к;а;т;;A;ТАКОЙ;A - gen sg plen f -;S m inan nom sg
+34;сети;СЕТЬ;S f inan loc2 sg;;;и;т;е;с;;;S;СЕТЬ;S f inan gen sg;PUNC
+35;интернет;ИНТЕРНЕТ;S m inan acc sg;;;т;е;н;р;е;т;S;ИНТЕРНЕТ;S m inan nom sg;SENT
+36;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+37;.;.;SENT;;;;;;;;;SENT;.;SENT;CONJ
+;;;;;;;;;;;;;;;ADV -
+1;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;SPRO pl - - nom
+2;почему;ПОЧЕМУ;ADV -;;;у;м;е;ч;о;п;ADV;ПОЧЕМУ;ADV -;ADV -
+3;они;ОНИ;SPRO pl - - nom;;;и;н;о;;;;SPRO;ОНИ;SPRO pl - - nom;ADV -
+4;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -;V ipf praes pl indic - 3p
+5;много;МНОГО;ADV -;;;о;г;о;н;м;;ADV;МНОГО;ADV -;S n inan gen sg
+6;тратят;ТРАТИТЬ;V ipf praes pl indic - 3p;;;т;я;т;а;р;т;V;ТРАТИТЬ;V ipf praes pl indic - 3p;PUNC
+7;времени;ВРЕМЯ;S n inan gen sg;;;и;н;е;м;е;р;S;ВРЕМЯ;S n inan gen sg;CONJ
+8;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes sg indic - 3p
+9;а;А;CONJ;;;а;;;;;;CONJ;А;CONJ;V ipf - - inf - -
+10;может;МОЧЬ;V ipf praes sg indic - 3p;;;т;е;ж;о;м;;V;МОЧЬ;V ipf praes sg indic - 3p;PART
+11;быть;БЫТЬ;V ipf - - inf - -;;;ь;т;ы;б;;;V;БЫТЬ;V ipf - - inf - -;V ipf praes pl indic - 3p
+12;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+13;тратят;ТРАТИТЬ;V ipf praes pl indic - 3p;;;т;я;т;а;р;т;V;ТРАТИТЬ;V ipf praes pl indic - 3p;ADV -
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes pl indic - 3p
+15;может;МОЖЕТ;V ipf praes sg indic - 3p;;;т;е;ж;о;м;;ADV;МОЖЕТ;ADV -;PR
+16;проводят;ПРОВОДИТЬ;V ipf praes pl indic - 3p;;;т;я;д;о;в;о;V;ПРОВОДИТЬ;V ipf praes pl indic - 3p;S f inan ins sg
+17;с;С;PR;;;с;;;;;;PR;С;PR;PR
+18;пользой;ПОЛЬЗА;S f inan ins sg;;;й;о;з;ь;л;о;S;ПОЛЬЗА;S f inan ins sg;A - gen sg plen f -
+19;в;В;PR;;;в;;;;;;PR;В;PR;S f inan gen sg
+20;данной;ДАННЫЙ;A - loc2 sg plen f -;;;й;о;н;н;а;д;A;ДАННЫЙ;A - gen sg plen f -;SENT
+21;сети;СЕТЬ;S f inan loc2 sg;;;и;т;е;с;;;S;СЕТЬ;S f inan gen sg;
+22;.;.;SENT;;;;;;;;;SENT;.;SENT;S f anim nom sg
+;;;;;;;;;;;;;;;PUNC
+1;Ирина;ИРИНА;S f anim nom sg persn;;;а;н;и;р;и;;S;ИРИНА;S f anim nom sg;CONJ
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;PUNC
+3;Итак;ИТАК;CONJ;;;к;а;т;и;;;CONJ;ИТАК;CONJ;A - nom sg plen f -
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+5;одна;ОДИН;ANUM - nom sg plen f -;;;а;н;д;о;;;A;ОДИН;A - nom sg plen f -;A - gen pl plen - -
+6;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR;A - gen pl plen - -
+7;самых;САМЫЙ;APRO - gen pl ;;;х;ы;м;а;с;;A;САМЫЙ;A - gen pl plen - -;S f inan gen pl
+8;популярнейших;ПОПУЛЯРНЕЙШИЙ;A - gen pl plen - -;;;х;и;ш;й;е;н;A;ПОПУЛЯРНЕЙШИЙ;A - gen pl plen - -;PR
+9;сетей;СЕТЬ;S f inan gen pl;;;й;е;т;е;с;;S;СЕТЬ;S f inan gen pl;S f inan loc sg
+10;в;В;PR;;;в;;;;;;PR;В;PR;PUNC
+11;России;РОССИЯ;S f inan loc2 sg;;;и;и;с;с;о;р;S;РОССИЯ;S f inan loc sg;S n - nom sg
+12;-;-;PUNC;;;;;;;;;PUNC;-;PUNC;S f inan nom sg
+13;это;ЭТО;SPRO n - nom sg;;;о;т;э;;;;S;ЭТО;S n - nom sg;SENT
+14;сеть;СЕТЬ;S f inan acc sg;;;ь;т;е;с;;;S;СЕТЬ;S f inan nom sg;
+;;;;;;;;;;;;;;;S m inan loc sg
+1;"	";_;;;;;;;;;;;_;2;2
+2;Вконтакте;ВКОНТАКТЕ;nonflex;;;е;т;к;а;т;н;S;ВКОНТАКТЕ;S m inan loc sg;PUNC
+3;"	";_;;;;;;;;;;;_;2;A - nom sg plen f -
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+5;которая;КОТОРЫЙ;APRO - nom sg f -;;;я;а;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen f -;V ipf praes sg indic - 3p
+6;сейчас;СЕЙЧАС;ADV -;;;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -;ADV -
+7;имеет;ИМЕТЬ;V ipf praes indic - 3p;;;т;е;е;м;и;;V;ИМЕТЬ;V ipf praes sg indic - 3p;A - acc sg plen f -
+8;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -;ADV -
+9;короткую..;КОРОТКИЙ..;A - acc sg plen f -;;;;;ю;у;к;т;A;КОРОТКИЙ..;A - acc sg plen f -;A - acc sg plen m inan
+10;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -;S m inan acc sg
+11;короткий;КОРОТКИЙ;A - acc sg plen m ;;;й;и;к;т;о;р;A;КОРОТКИЙ;A - acc sg plen m inan;S m inan gen sg
+12;адрес;АДРЕС;S m inan acc sg;;;с;е;р;д;а;;S;АДРЕС;S m inan acc sg;S f inan nom sg
+13;вэка;ВЭК;S m inan gen sg;ANOM;;а;к;э;в;;;S;ВЭК;S m inan gen sg;S m anim loc sg
+14;точка;ТОЧКА;S f inan nom sg;;;а;к;ч;о;т;;S;ТОЧКА;S f inan nom sg;NONLEX
+15;ком.;КТО.;S m anim loc sg;ANOM;;;м;о;к;;;S;КТО.;S m anim loc sg;CONJ
+16;Аа..;АА..;nonflex;;;;;а;а;;;NONLEX;АА..;NONLEX;PART
+17;как;КАК;CONJ;;;к;а;к;;;;CONJ;КАК;CONJ;V pf fut sg indic - 1p
+18;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+19;посмотрю;ПОСМОТРЕТЬ;V pf fut sg indic - 1p;;;ю;р;т;о;м;с;V;ПОСМОТРЕТЬ;V pf fut sg indic - 1p;PR
+20;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S n inan nonflex nonflex
+21;в;В;PR;;;в;;;;;;PR;В;PR;ADV -
+22;метро;МЕТРО;S n inan nonflex nonflex;;;о;р;т;е;м;;S;МЕТРО;S n inan nonflex nonflex;S m - nom sg
+23;постоянно;ПОСТОЯННО;ADV -;;;о;н;н;я;о;т;ADV;ПОСТОЯННО;ADV -;V ipf praes sg indic - 3p
+24;кто-то;КТО-ТО;SPRO  nonflex;;;о;т;;о;т;к;S;КТО-ТО;S m - nom sg;CONJ
+25;сидит;СИДЕТЬ;V ipf praes sg indic - 3p;;;т;и;д;и;с;;V;СИДЕТЬ;V ipf praes sg indic - 3p;V ipf praes sg indic - 3p
+26;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;A - acc sg plen f -
+27;листает;ЛИСТАТЬ;V ipf praes sg indic - 3p;;;т;е;а;т;с;и;V;ЛИСТАТЬ;V ipf praes sg indic - 3p;S f inan acc sg
+28;новостную;НОВОСТНОЙ;A - acc sg plen f -;;;ю;у;н;т;с;о;A;НОВОСТНОЙ;A - acc sg plen f -;NUM acc - -
+29;ленту.;ЛЕНТА.;S f inan acc sg;;;;у;т;н;е;л;S;ЛЕНТА.;S f inan acc sg;ADV -
+30;Столько;СТОЛЬКО;ADV -;;;о;к;ь;л;о;т;NUM;СТОЛЬКО;NUM acc - -;SENT
+31;так;ТАК;ADV -;;;к;а;т;;;;ADV;ТАК;ADV -;
+;;;;;;;;;;;;;;;3
+1;называемых;НАЗЫВАТЬ;PARTCP ipf praes loc pl plen - pass -;;;х;ы;м;е;а;в;PARTCP;НАЗЫВАТЬ;PARTCP ipf inpraes loc pl plen - pass -;S m anim acc pl
+2;"	";_;;;;;;;;;;;_;3;3
+3;мемасиков;МЕМАСИК;S m anim acc pl;new--;;в;о;к;и;с;а;S;МЕМАСИК;S m anim acc pl;ADV -
+4;"	";_;;;;;;;;;;;_;3;V pf - - inf - -
+5;можно;МОЖНО;PRAEDIC;;;о;н;ж;о;м;;ADV;МОЖНО;ADV -;CONJ
+6;пролистать;ПРОЛИСТАТЬ;V pf - - inf - -;;;ь;т;а;т;с;и;V;ПРОЛИСТАТЬ;V pf - - inf - -;V pf - - inf - -
+7;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;PUNC
+8;узнать;УЗНАТЬ;V pf - - inf - -;;;ь;т;а;н;з;у;V;УЗНАТЬ;V pf - - inf - -;ADV -
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+10;недаром;НЕДАРОМ;ADV -;;;м;о;р;а;д;е;ADV;НЕДАРОМ;ADV -;PR
+11;сегодня;СЕГОДНЯ;ADV -;;;я;н;д;о;г;е;ADV;СЕГОДНЯ;ADV -;A - loc sg plen f -
+12;в;В;PR;;;в;;;;;;PR;В;PR;A - loc sg plen f -
+13;такой;ТАКОЙ;APRO - loc2 sg plen f -;;;й;о;к;а;т;;A;ТАКОЙ;A - loc sg plen f -;S f inan loc sg
+14;интересной;ИНТЕРЕСНЫЙ;A - loc2 sg plen f -;;;й;о;н;с;е;р;A;ИНТЕРЕСНЫЙ;A - loc sg plen f -;PUNC
+15;футболке;ФУТБОЛКА;S f inan loc2 sg;;;е;к;л;о;б;т;S;ФУТБОЛКА;S f inan loc sg;A - acc sg plen f -
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 1p - loc
+17;которую;КОТОРЫЙ;APRO - acc sg  f -;;;ю;у;р;о;т;о;A;КОТОРЫЙ;A - acc sg plen f -;ADV -
+18;мне;Я;SPRO sg 1p - dat;;;е;н;м;;;;SPRO;Я;SPRO sg 1p - loc;V pf praet pl indic - -
+19;недавно;НЕДАВНО;ADV -;;;о;н;в;а;д;е;ADV;НЕДАВНО;ADV -;PR
+20;подарили;ПОДАРИТЬ;V pf praet pl indic - -;;;и;л;и;р;а;д;V;ПОДАРИТЬ;V pf praet pl indic - -;S m inan acc sg
+21;на;НА;PR;;;а;н;;;;;PR;НА;PR;S n inan acc pl
+22;день;ДЕНЬ;S m inan acc sg;;;ь;н;е;д;;;S;ДЕНЬ;S m inan acc sg;PUNC
+23;рождения.;РОЖДЕНИЕ.;S n inan gen sg;;;;я;и;н;е;д;S;РОЖДЕНИЕ.;S n inan acc pl;NONLEX
+24;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+25;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;PUNC
+26;form;FORM;NONLEX;;;;;;;;;NONLEX;FORM;NONLEX;29
+27;=;=;PUNC;;;;;;;;;PUNC;=;PUNC;NONLEX
+28;"	";_;;;;;;;;;;;_;29;29
+29;оч;ОЧЕНЬ;distort;;;ч;о;;;;;NONLEX;ОЧ;NONLEX;PUNC
+30;"	";_;;;;;;;;;;;_;29;ADV -
+31;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;PUNC
+32;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -;PUNC
+33;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+34;/;/;PUNC;;;;;;;;;PUNC;/;PUNC;PUNC
+35;distinct;DISTINCT;NONLEX;;;;;;;;;NONLEX;DISTINCT;NONLEX;A - nom sg plen f -
+36;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;S f anim nom sg
+37;популярная;ПОПУЛЯРНЫЙ;A - nom sg plen f -;;;я;а;н;р;я;л;A;ПОПУЛЯРНЫЙ;A - nom sg plen f -;SENT
+38;птичка;ПТИЧКА;S f anim nom sg;;;а;к;ч;и;т;п;S;ПТИЧКА;S f anim nom sg;
+39;.;.;SENT;;;;;;;;;SENT;.;SENT;CONJ
+;;;;;;;;;;;;;;;V pf praet sg indic f -
+1;Чем;ЧЕМ;SPRO ins ;;;м;е;ч;;;;CONJ;ЧЕМ;CONJ;S f inan nom sg
+2;завоевала;ЗАВОЕВАТЬ;V pf praet sg indic f -;;;а;л;а;в;е;о;V;ЗАВОЕВАТЬ;V pf praet sg indic f -;SENT
+3;популярность;ПОПУЛЯРНОСТЬ;S f inan acc sg;;;ь;т;с;о;н;р;S;ПОПУЛЯРНОСТЬ;S f inan nom sg;
+4;?;?;SENT;;;;;;;;;SENT;?;SENT;PUNC
+;;;;;;;;;;;;;;;ADV -
+1;-;-;PUNC;;;;;;;;;PUNC;-;PUNC;SPRO sg 1p - nom
+2;лично;ЛИЧНО;ADV -;;;о;н;ч;и;л;;ADV;ЛИЧНО;ADV -;V pf - - inf - -
+3;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;PART
+4;понять;ПОНЯТЬ;V pf - - inf - -;;;ь;т;я;н;о;п;V;ПОНЯТЬ;V pf - - inf - -;V ipf praes sg indic - 1p
+5;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+6;могу;МОЧЬ;V ipf praes sg indic - 1p;;;у;г;о;м;;;V;МОЧЬ;V ipf praes sg indic - 1p;CONJ
+7;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;A - nom sg plen f -
+8;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ;PUNC
+9;сама;САМ;APRO - nom sg plen f -;;;а;м;а;с;;;A;САМ;A - nom sg plen f -;-
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PUNC
+11;тем не менее;тем не менее;PART;;;е;е;н;е;м; ;-;тем не менее;-;V ipf praes sg indic - 1p
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;CONJ
+13;отправляю;ОТПРАВЛЯТЬ;V ipf praes sg indic - 1p;;;ю;я;л;в;а;р;V;ОТПРАВЛЯТЬ;V ipf praes sg indic - 1p;V ipf praes sg indic - 1p
+14;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;S n inan acc sg
+15;использую;ИСПОЛЬЗОВАТЬ;V ipf praes sg indic - 1p;;;ю;у;з;ь;л;о;V;ИСПОЛЬЗОВАТЬ;V ipf praes sg indic - 1p;NONLEX
+16;это.;ЭТО.;SPRO acc n sg;"точка с ""это"" должны быть в разных ячейках";;;о;т;э;;;S;ЭТО.;S n inan acc sg;S m anim nom pl
+17;Аа..;А;INTJ;;;;;а;а;;;NONLEX;АА..;NONLEX;A - - pl brev - -
+18;Люди;ЧЕЛОВЕК;S m anim nom pl;;;и;д;ю;л;;;S;ЧЕЛОВЕК;S m anim nom pl;V ipf - - inf - -
+19;готовы;ГОТОВЫЙ;A - - pl brev - -;;;ы;в;о;т;о;г;A;ГОТОВЫЙ;A - - pl brev - -;S - inan acc pl
+20;тратить;ТРАТИТЬ;V ipf - - inf - -;;;ь;т;и;т;а;р;V;ТРАТИТЬ;V ipf - - inf - -;PUNC
+21;деньги;ДЕНЬГИ;S - inan acc pl;;;и;г;ь;н;е;д;S;ДЕНЬГИ;S - inan acc pl;CONJ
+22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf - - inf - -
+23;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ;S m inan acc pl
+24;получить;ПОЛУЧИТЬ;V pf - - inf - -;;;ь;т;и;ч;у;л;V;ПОЛУЧИТЬ;V pf - - inf - -;PR
+25;голоса;ГОЛОС;S m inan acc pl;;;а;с;о;л;о;г;S;ГОЛОС;S m inan acc pl;S m inan loc sg
+26;вконтакте;ВКОНТАКТЕ;NONFLEX;anom;;в;;;;;;PR;В;PR;PUNC
+28;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+29;.;.;SENT;;;;;;;;;SENT;.;SENT;CONJ
+;;;;;;;;;;;;;;;V pf - - inf - -
+1;чтобы;ЧТОБЫ;CONJ;;;ы;б;о;т;ч;;CONJ;ЧТОБЫ;CONJ;A - acc pl plen - inan
+2;купить;КУПИТЬ;V pf - - inf - -;;;ь;т;и;п;у;к;V;КУПИТЬ;V pf - - inf - -;S m inan acc pl
+3;разные;РАЗНЫЙ;A - acc pl plen - inan;;;е;ы;н;з;а;р;A;РАЗНЫЙ;A - acc pl plen - inan;PUNC
+4;стикеры;СТИКЕР;S m inan acc pl;;;ы;р;е;к;и;т;S;СТИКЕР;S m inan acc pl;CONJ
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PR
+6;дабы;ДАБЫ;CONJ;;;ы;б;а;д;;;CONJ;ДАБЫ;CONJ;S f inan loc sg
+7;в;В;PR;;;в;;;;;;PR;В;PR;V pf praet sg indic n -
+8;переписке;ПЕРЕПИСКА;S f inan loc2 sg;;;е;к;с;и;п;е;S;ПЕРЕПИСКА;S f inan loc sg;ADV -
+9;стало;СТАТЬ;V pf praet sg indic n -;;;о;л;а;т;с;;V;СТАТЬ;V pf praet sg indic n -;ADV comp
+10;немножечко;НЕМНОЖЕЧКО;ADV -;;;о;к;ч;е;ж;о;ADV;НЕМНОЖЕЧКО;ADV -;CONJ
+11;живее.;ЖИВО.;ADV comp;с точкой раздельно;;;е;е;в;и;ж;ADV;ЖИВО.;ADV comp;SPRO sg 1p - nom
+12;А..;А;INTJ;;;;;а;;;;CONJ;А..;CONJ;PART
+13;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;V ipf praes sg indic - 1p
+14;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PR
+15;знаю;ЗНАТЬ;V ipf praes sg indic - 1p;;;ю;а;н;з;;;V;ЗНАТЬ;V ipf praes sg indic - 1p;CONJ
+16;о;О;PR;;;о;;;;;;PR;О;PR;V ipf - - inf - -
+17;чем;ЧЕМ;SPRO  loc;;;м;е;ч;;;;CONJ;ЧЕМ;CONJ;PUNC
+18;говорить;ГОВОРИТЬ;V ipf - - inf - -;;;ь;т;и;р;о;в;V;ГОВОРИТЬ;V ipf - - inf - -;PR
+19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 1p - acc
+20;у;У;PR;;;у;;;;;;PR;У;PR;A - acc sg plen m inan
+21;меня;Я;SPRO sg 1p - gen;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc;S m inan acc sg
+22;словарный;СЛОВАРНЫЙ;A - acc sg plen m inan;;;й;ы;н;р;а;в;A;СЛОВАРНЫЙ;A - acc sg plen m inan;V pf praet sg indic m -
+23;запас;ЗАПАС;S m inan acc sg;;;с;а;п;а;з;;S;ЗАПАС;S m inan acc sg;SENT
+24;закончился;ЗАКОНЧИТЬСЯ;V pf praet sg indic m -;;;я;с;л;и;ч;н;V;ЗАКОНЧИТЬСЯ;V pf praet sg indic m -;
+25;.;.;SENT;;;;;;;;;SENT;.;SENT;S f anim nom sg
+;;;;;;;;;;;;;;;PUNC
+1;Ирина;ИРИНА;S f anim nom sg persn;;;а;н;и;р;и;;S;ИРИНА;S f anim nom sg;PART
+2;@;@;PUNC;;;;;;;;;PUNC;@;PUNC;INTJ
+3;Не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PART
+4;ме..;МЕ..;NONLEX;;;;;е;м;;;INTJ;МЕ..;INTJ;ADV -
+5;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;A - nom sg plen n -
+6;менее;МЕНЕЕ;ADV -;;;е;е;н;е;м;;ADV;МЕНЕЕ;ADV -;S n - acc sg
+7;популярное;ПОПУЛЯРНЫЙ;A - nom sg plen n -;;;е;о;н;р;я;л;A;ПОПУЛЯРНЫЙ;A - nom sg plen n -;S n inan acc sg
+8;се..;СЕ..;NONLEX;;;;;е;с;;;S;СЕ..;S n - acc sg;SENT
+9;приложение;ПРИЛОЖЕНИЕ;S n inan acc sg;;;е;и;н;е;ж;о;S;ПРИЛОЖЕНИЕ;S n inan acc sg;
+10;.;.;SENT;;;;;;;;;SENT;.;SENT;S f inan gen pl
+;;;;;;;;;;;;;;;PUNC
+1;инстаграмм;ИНСТАГРАММ;S m inan nom pl;;;м;м;а;р;г;а;S;ИНСТАГРАММА;S f inan gen pl;A - nom sg plen n -
+2;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PARTCP pf praet - sg brev n pass -
+3;которое;КОТОРЫЙ;APRO - nom sg n -;;;е;о;р;о;т;о;A;КОТОРЫЙ;A - nom sg plen n -;PR
+4;закачано;ЗАКАЧАТЬ;PARTCP pf praet - sg brev n pass -;;;о;н;а;ч;а;к;PARTCP;ЗАКАЧАТЬ;PARTCP pf praet - sg brev n pass -;A - loc sg plen m -
+5;в;В;PR;;;в;;;;;;PR;В;PR;A - loc sg plen m -
+6;каждом;КАЖДЫЙ;APRO - loc2 sg  m -;;;м;о;д;ж;а;к;A;КАЖДЫЙ;A - loc sg plen m -;S m inan loc sg
+7;третьем;ТРЕТИЙ;ANUM - loc2 sg plen m -;;;м;е;ь;т;е;р;A;ТРЕТИЙ;A - loc sg plen m -;PUNC
+8;телефоне;ТЕЛЕФОН;S m inan loc2 sg;;;е;н;о;ф;е;л;S;ТЕЛЕФОН;S m inan loc sg;NONLEX
+9;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes sg indic - 3p
+10;аа;А;NONLEX;;;а;а;;;;;NONLEX;АА;NONLEX;S m inan acc pl
+11;набирает;НАБИРАТЬ;V ipf praes sg indic - 3p;;;т;е;а;р;и;б;V;НАБИРАТЬ;V ipf praes sg indic - 3p;PR
+12;обороты;ОБОРОТ;S m inan acc pl;;;ы;т;о;р;о;б;S;ОБОРОТ;S m inan acc pl;A - ins sg plen m -
+13;с;С;PR;;;с;;;;;;PR;С;PR;S m inan ins sg
+14;каждым;КАЖДЫЙ;APRO - ins sg  m -;;;м;ы;д;ж;а;к;A;КАЖДЫЙ;A - ins sg plen m -;PUNC
+15;днём;ДЕНЬ;S m inan ins sg;;;м;ё;н;д;;;S;ДЕНЬ;S m inan ins sg;CONJ
+16;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;PART
+17;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;PR
+18;даже;ДАЖЕ;PART;;;е;ж;а;д;;;PART;ДАЖЕ;PART;SPRO sg 1p - acc
+19;у;У;PR;;;у;;;;;;PR;У;PR;ADV -
+20;меня;Я;SPRO sg 1p - gen;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc;V ipf praes sg indic - 3p
+21;рядом;РЯДОМ;ADV -;;;м;о;д;я;р;;ADV;РЯДОМ;ADV -;S m inan nom sg
+22;лежит;ЛЕЖАТЬ;V ipf praes sg indic - 3p;;;т;и;ж;е;л;;V;ЛЕЖАТЬ;V ipf praes sg indic - 3p;PUNC
+23;телефон;ТЕЛЕФОН;S m inan acc sg;;;н;о;ф;е;л;е;S;ТЕЛЕФОН;S m inan nom sg;CONJ
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+25;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;PR
+26;буквально;БУКВАЛЬНО;ADV -;;;о;н;ь;л;а;в;ADV;БУКВАЛЬНО;ADV -;S m inan acc sg
+27;спустя;СПУСТЯ;PR;;;я;т;с;у;п;с;PR;СПУСТЯ;PR;SPRO sg 1p - nom
+28;полчаса;ПОЛЧАСА;S nonflex;;;а;с;а;ч;л;о;S;ПОЛЧАСА;S m inan acc sg;ADV -
+29;я;Я;SPRO sg 1p - nom;;;я;;;;;;SPRO;Я;SPRO sg 1p - nom;SENT
+30;обязательно;ОБЯЗАТЕЛЬНО;ADV -;;;о;н;ь;л;е;т;ADV;ОБЯЗАТЕЛЬНО;ADV -;
+31;.;.;SENT;;;;;;;;;SENT;.;SENT;V pf fut sg indic - 1p
+;;;;;;;;;;;;;;;A - acc sg plen m inan
+1;чекну;ЧЕКНУТЬ;V pf fut sg indic - 1p;;;у;н;к;е;ч;;V;ЧЕКНУТЬ;V pf fut sg indic - 1p;S f inan gen pl
+2;свой;СВОЙ;APRO - acc sg  m inan;;;й;о;в;с;;;A;СВОЙ;A - acc sg plen m inan;PUNC
+3;инстаграмм;ИНСТАГРАММА;S m inan acc sg;;;м;м;а;р;г;а;S;ИНСТАГРАММА;S f inan gen pl;NONLEX
+4;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V pf praet - ger - -
+5;аа..;А;INTJ;;;;;а;а;;;NONLEX;АА..;NONLEX;A - nom pl plen - -
+6;посмотрев;ПОСМОТРЕТЬ; ger - pf praet - ;;;в;е;р;т;о;м;V;ПОСМОТРЕТЬ;V pf praet - ger - -;S f inan nom pl
+7;какие;КАКОЙ;APRO - acc pl ;;;е;и;к;а;к;;A;КАКОЙ;A - nom pl plen - -;ADV -
+8;истории;ИСТОРИЯ;S f inan acc pl;;;и;и;р;о;т;с;S;ИСТОРИЯ;S f inan nom pl;V ipf praes pl indic - 3p
+9;там;ТАМ;ADVPRO-;;;м;а;т;;;;ADV;ТАМ;ADV -;ADV -
+10;публикуются.;ПУБЛИКОВАТЬСЯ.;V ipf praes pl indic - 3p;;;;я;с;т;ю;у;V;ПУБЛИКОВАТЬСЯ.;V ipf praes pl indic - 3p;PUNC
+11;Собственно;СОБСТВЕННО;ADV -;;;о;н;н;е;в;т;ADV;СОБСТВЕННО;ADV -;A - nom pl plen - -
+12;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S f inan loc sg
+13;социальные;СОЦИАЛЬНЫЙ;A - nom pl plen - -;;;е;ы;н;ь;л;а;A;СОЦИАЛЬНЫЙ;A - nom pl plen - -;A - nom pl plen - -
+14;сети.;СЕТЬ.;S f inan nom pl;;;;и;т;е;с;;S;СЕТЬ.;S f inan loc sg;S f inan nom pl
+15;Социальные;СОЦИАЛЬНЫЙ;A - nom pl plen - -;;;е;ы;н;ь;л;а;A;СОЦИАЛЬНЫЙ;A - nom pl plen - -;V ipf praes pl indic - 3p
+16;сети;СЕТЬ;S f inan nom pl;;;и;т;е;с;;;S;СЕТЬ;S f inan nom pl;SPRO pl 1p - dat
+17;помогают;ПОМОГАТЬ;V ipf praes pl indic - 3p;;;т;ю;а;г;о;м;V;ПОМОГАТЬ;V ipf praes pl indic - 3p;PART
+18;нам;МЫ;SPRO pl 1p - dat;;;м;а;н;;;;SPRO;МЫ;SPRO pl 1p - dat;PART
+19;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;V pf - - inf - -
+20;только;ТОЛЬКО;PART;;;о;к;ь;л;о;т;PART;ТОЛЬКО;PART;A - acc sg plen m anim
+21;найти;НАЙТИ;V pf - - inf - -;;;и;т;й;а;н;;V;НАЙТИ;V pf - - inf - -;S m anim gen sg
+22;какого-то;КАКОЙ-ТО;APPRO - acc sg  m anim;;;о;т;;о;г;о;A;КАКОЙ-ТО;A - acc sg plen m anim;PUNC
+23;человека;ЧЕЛОВЕК;S m anim acc sg;;;а;к;е;в;о;л;S;ЧЕЛОВЕК;S m anim gen sg;SENT
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;
+25;.;.;SENT;;;;;;;;;SENT;.;SENT;V ipf - - inf - -
+;;;;;;;;;;;;;;;PR
+1;держать;ДЕРЖАТЬ;V ipf - - inf - -;;;ь;т;а;ж;р;е;V;ДЕРЖАТЬ;V ipf - - inf - -;SPRO sg 3p m ins
+2;с;С;PR;;;с;;;;;;PR;С;PR;S f inan nom sg
+3;ним;ОН;SPRO sg 3p m ins;;;м;и;н;;;;SPRO;ОН;SPRO sg 3p m ins;PUNC
+4;связь;СВЯЗЬ;S f inan nom sg;;;ь;з;я;в;с;;S;СВЯЗЬ;S f inan nom sg;CONJ
+5;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;CONJ
+6;но;НО;CONJ;;;о;н;;;;;CONJ;НО;CONJ;ADV -
+7;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;V pf - - inf - -
+8;немного;НЕМНОГО;ADV -;;;о;г;о;н;м;е;ADV;НЕМНОГО;ADV -;PUNC
+9;расслабиться;РАССЛАБИТЬСЯ;V pf - - inf - -;;;я;с;ь;т;и;б;V;РАССЛАБИТЬСЯ;V pf - - inf - -;ADV -
+10;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;S f inan nom sg
+11;например;НАПРИМЕР;ADV -;;;р;е;м;и;р;п;ADV;НАПРИМЕР;ADV -;PR
+12;музыка;МУЗЫКА;S f inan nom sg;;;а;к;ы;з;у;м;S;МУЗЫКА;S f inan nom sg;S m inan loc sg
+13;вконтакте;ВКОНТАКТЕ;nonflex;;;в;;;;;;PR;В;PR;CONJ
+15;или;ИЛИ;CONJ;;;и;л;и;;;;CONJ;ИЛИ;CONJ;V ipf praes pl indic - 3p
+16;приложения;ПРИЛОЖЕНИЕ;S n inan nom pl;;;я;и;н;е;ж;о;S;ПРИЛОЖЕНИЕ;S n inan nom pl;PR
+17;могут;МОЧЬ;V ipf praes pl indic - 3p;;;т;у;г;о;м;;V;МОЧЬ;V ipf praes pl indic - 3p;A - acc sg plen n inan
+18;на;НА;PR;;;а;н;;;;;PR;НА;PR;S n inan acc sg
+19;некоторое;НЕКОТОРЫЙ;APRO acc sg n inan;;;е;о;р;о;т;о;A;НЕКОТОРЫЙ;A - acc sg plen n inan;V pf - - inf - -
+20;время;ВРЕМЯ;S n inan acc sg;;;я;м;е;р;в;;S;ВРЕМЯ;S n inan acc sg;PUNC
+21;отвлечь;ОТВЛЕЧЬ;V pf - - inf - -;;;ь;ч;е;л;в;т;V;ОТВЛЕЧЬ;V pf - - inf - -;ADV -
+22;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;V ipf praes sg indic - 2p
+23;например;НАПРИМЕР;ADV -;;;р;е;м;и;р;п;ADV;НАПРИМЕР;ADV -;SPRO sg 2p - nom
+24;едешь;ЕХАТЬ;V ipf praes sg indic - 2p;;;ь;ш;е;д;е;;V;ЕХАТЬ;V ipf praes sg indic - 2p;PR
+25;ты;ТЫ;SPRO sg 2p - nom;;;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom;S n inan nonflex nonflex
+26;в;В;PR;;;в;;;;;;PR;В;PR;A - loc sg plen n -
+27;метро;МЕТРО;S n inan nonflex nonflex;;;о;р;т;е;м;;S;МЕТРО;S n inan nonflex nonflex;PART
+28;том;ТОТ;APRO loc sg n -;;;м;о;т;;;;A;ТОТ;A - loc sg plen n -;PUNC
+29;же;ЖЕ;PART;;;е;ж;;;;;PART;ЖЕ;PART;CONJ
+30;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SENT
+31;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ;
+;;;;;;;;;;;;;;;PR
+1;сейчас;СЕЙЧАС;ADV -;;;с;а;ч;й;е;с;ADV;СЕЙЧАС;ADV -;SPRO sg 1p - acc
+2;для;ДЛЯ;PR;;;я;л;д;;;;PR;ДЛЯ;PR;ADV -
+3;меня;Я;SPRO sg 1p - gen;;;я;н;е;м;;;SPRO;Я;SPRO sg 1p - acc;ADV -
+4;очень;ОЧЕНЬ;ADV -;;;ь;н;е;ч;о;;ADV;ОЧЕНЬ;ADV -;PUNC
+5;актуально;АКТУАЛЬНО;ADV -;;;о;н;ь;л;а;у;ADV;АКТУАЛЬНО;ADV -;ZERO
+6;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;NUM acc - -
+7;потому что;потому что;CONJ;;;о;т;ч; ;у;м;ZERO;потому что;ZERO;S m inan gen pl
+8;шесть;ШЕСТЬ;NUM acc - -;;;ь;т;с;е;ш;;NUM;ШЕСТЬ;NUM acc - -;PR
+9;дней;ДЕНЬ;S m inan gen pl;;;й;е;н;д;;;S;ДЕНЬ;S m inan gen pl;NUM loc - -
+10;из;ИЗ;PR;;;з;и;;;;;PR;ИЗ;PR;PR
+11;семи;СЕМЬ;NUM gen;;;и;м;е;с;;;NUM;СЕМЬ;NUM loc - -;S f inan acc sg
+12;в;В;PR;;;в;;;;;;PR;В;PR;ADV -
+13;неделю;НЕДЕЛЯ;S f inan acc sg;;;ю;л;е;д;е;н;S;НЕДЕЛЯ;S f inan acc sg;V ipf praes sg indic - 3p
+14;постоянно;ПОСТОЯННО;ADV -;;;о;н;н;я;о;т;ADV;ПОСТОЯННО;ADV -;V ipf - - inf - -
+15;приходится;ПРИХОДИТЬСЯ;V ipf praes sg indic med- 3p;;;я;с;т;и;д;о;V;ПРИХОДИТЬСЯ;V ipf praes sg indic - 3p;PR
+16;ездить;ЕЗДИТЬ;V ipf - - inf - -;;;ь;т;и;д;з;е;V;ЕЗДИТЬ;V ipf - - inf - -;S f inan acc sg
+17;на;НА;PR;;;а;н;;;;;PR;НА;PR;PUNC
+18;учебу;УЧЕБА;S f inan acc sg;;;у;б;е;ч;у;;S;УЧЕБА;S f inan acc sg;CONJ
+19;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO sg 2p - nom
+20;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;PART
+21;ты;ТЫ;SPRO sg 2p - nom;;;ы;т;;;;;SPRO;ТЫ;SPRO sg 2p - nom;V ipf praes sg indic - 2p
+22;не;НЕ;PART;;;е;н;;;;;PART;НЕ;PART;PUNC
+23;знаешь;ЗНАТЬ;V ipf praes sg indic - 2p;;;ь;ш;е;а;н;з;V;ЗНАТЬ;V ipf praes sg indic - 2p;S n inan loc sg
+24;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SPRO - - - acc
+25;чем;ЧТО;SPRO loc;;;м;е;ч;;;;S;ЧТО;S n inan loc sg;V pf - - inf - -
+26;себя;СЕБЯ;SPRO - - - acc sg;;;я;б;е;с;;;SPRO;СЕБЯ;SPRO - - - acc;NUM acc - -
+27;занять;ЗАНЯТЬ;V pf - - inf - -;;;ь;т;я;н;а;з;V;ЗАНЯТЬ;V pf - - inf - -;NUM acc - -
+28;сорок;СОРОК;NUM acc - -;;;к;о;р;о;с;;NUM;СОРОК;NUM acc - -;S f inan gen pl
+29;пять;ПЯТЬ;NUM acc - -;;;ь;т;я;п;;;NUM;ПЯТЬ;NUM acc - -;PR
+30;минут;МИНУТА;S f inan gen pl;;;т;у;н;и;м;;S;МИНУТА;S f inan gen pl;S n inan gen sg
+31;по;ПО;PR;;;о;п;;;;;PR;ПО;PR;PUNC
+32;времени;ВРЕМЯ;S n inan loc sg;;;и;н;е;м;е;р;S;ВРЕМЯ;S n inan gen sg;CONJ
+33;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;SENT
+34;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;
+35;.;.;SENT;;;;;;;;;SENT;.;SENT;ADV -
+;;;;;;;;;;;;;;;V ipf praes sg indic - 2p
+1;постоянно;ПОСТОЯННО;ADV -;;;о;н;н;я;о;т;ADV;ПОСТОЯННО;ADV -;PR
+2;берешь;БРАТЬ;V ipf praes sg indic - 2p;;;ь;ш;е;р;е;б;V;БРАТЬ;V ipf praes sg indic - 2p;S f inan acc pl
+3;в;В;PR;;;в;;;;;;PR;В;PR;S m inan nom sg
+4;руки;РУКА;S f inan acc pl;;;и;к;у;р;;;S;РУКА;S f inan acc pl;CONJ
+5;телефон;ТЕЛЕФОН;S m inan acc sg;;;н;о;ф;е;л;е;S;ТЕЛЕФОН;S m inan nom sg;V ipf praes sg indic - 2p
+6;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;NONLEX
+7;начинаешь;НАЧИНАТЬ;V ipf praes sg indic - 2p;;;ь;ш;е;а;н;и;V;НАЧИНАТЬ;V ipf praes sg indic - 2p;V ipf - - inf - -
+8;ээ;Э;INTJ NONLEX;;;э;э;;;;;NONLEX;ЭЭ;NONLEX;CONJ
+9;листать;ЛИСТАТЬ;V ipf - - inf - -;;;ь;т;а;т;с;и;V;ЛИСТАТЬ;V ipf - - inf - -;V ipf - - inf - -
+10;что..;ЧТО;CONJ;;;;;о;т;ч;;CONJ;ЧТО..;CONJ;CONJ
+11;листать;ЛИСТАТЬ;V ipf - - inf - -;;;ь;т;а;т;с;и;V;ЛИСТАТЬ;V ipf - - inf - -;V ipf - - inf - -
+12;и;И;CONJ;;;и;;;;;;CONJ;И;CONJ;PUNC
+13;узнавать;УЗНАВАТЬ;V ipf - - inf - -;;;ь;т;а;в;а;н;V;УЗНАВАТЬ;V ipf - - inf - -;CONJ
+14;,;,;PUNC;;;;;;;;;PUNC;,;PUNC;ADV -
+15;что;ЧТО;CONJ;;;о;т;ч;;;;CONJ;ЧТО;CONJ;PUNC
+16;вообще....;ВООБЩЕ....;ADV -;;;;;;;е;щ;ADV;ВООБЩЕ....;ADV -;NONLEX
+17;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;PUNC
+18;noindex;NOINDEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX;PUNC
+19;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;NONLEX
+20;[;[;PUNC;;;;;;;;;PUNC;[;PUNC;PUNC
+21;нрзб;НРЗБ;NONLEX;;;б;з;р;н;;;NONLEX;НРЗБ;NONLEX;PUNC
+22;];];PUNC;;;;;;;;;PUNC;];PUNC;PUNC
+23;<;<;PUNC;;;;;;;;;PUNC;<;PUNC;NONLEX
+24;/;/;PUNC;;;;;;;;;PUNC;/;PUNC;PUNC
+25;noindex;NOINDEX;NONLEX;;;;;;;;;NONLEX;NOINDEX;NONLEX;SENT
+26;>;>;PUNC;;;;;;;;;PUNC;>;PUNC;PUNC
+27;.;.;SENT;;;;;;;;;SENT;.;SENT;SENT
