@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="unspecified" DATE="2017-12-08T18:45:39+04:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c685693d-bfc8-4a66-8d5a-474fc332ad26</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">40</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="10000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="10700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="15910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="16140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="16760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="19980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="20170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="21200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="21320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="33870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="34770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="44860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="45820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="53960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="53990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="69360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="69950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="103330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="103800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="112910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="112950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="114990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="115170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="115850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="118960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="123970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="124010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="135780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="135880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="154500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="154990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="172500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="173930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="188000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="189110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="193940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="194470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="203680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="203890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="205410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="205640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="207270"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="207550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="213950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="215090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="226550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="227430"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="235000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="238850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="262970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="263360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="265180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="265280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="280450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="281570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="299870"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Ирина@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Я не хочу говорить ни о музыке, ни о видео, ни о чем мне нравится, но сегодня я расскажу о очень насущной проблеме, которая лично меня затрагивает - это патриотизм.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>Моя сестра поступила в Высшую Школу Экономики на факультет Лингвистики.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>Зачем?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>Затем, что она хочет выучить  сто пятьдесят языков.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>С какой целью?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>С целью того, чтобы потом свалить заграницу, но хочу заметить, что современная молодежь абсолютно не думает о том, на какие шиши они будут жить за эт.. за рубежом.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Я хочу сказать вам, люди, посмотрите на нашу страну, она гораздо интереснее, у нас гораздо больше возможностей ,да, если.. начнем по порядку.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>Во-первых, все говорят про экономику, а вы берете, поступаете в экономический вуз и поднимаете всю нашу экономику с нуля!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>Хрен ли жаловаться на эту экономику,экономику строим все мы, когда вместо того, чтобы пойти работать на заводы, которые поднимут эту экономику, все идут ,блин, на каких-нибудь юристов, потому что это ,блин, это проще, все ищут..пр...все ищут всё что попроще.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>Опять же, приведу в пример мою сестру, она выбрала специальность, которую ,казалось бы по темпераменту, нет, не по темпераменту, которая скорее по направлению не совсем ей подходит ,как все считали, поскольку там довольно много математики, информатики,не..не информатики ,возможно ошибаюсь,а там программирования так пр..понятнее сказать и правильнее ,но я вижу как она из вечера в вечер в скобках не реклама,она сидит и занимается спойлер она хочет получить это высшее образование  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Зачем  оно ей нужно, я не знаю, лично мне оно как-то ,я не могу выговори..не могу говорить это слово, слишком цензурное видео должно получиться.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Не надо.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>В современном мире нельзя найти человека,который бы не пользовался интернетом.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Почти у каждого есть какой-то гаджет в виде телефона, планшета, ноутбука или компьютера, так вот, сегодня мы хотим обсудить такую тему как ээм.. "социальные сети".</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>Социальные сети настолько распространены, что почти у каждого есть страничка "Вконтакте",аккаунт в инстаграмме или фейсбуке иии даже не одна, чаще всего кто-нибудь создает еще дополнительные, так называемые "фейковые" страницы,другой вопрос "Для чего?".</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>Ноо спросите на..у тех, кто это знает,но сегодня мы хотим обсудить более подробно то ,что же привлекает молодых людей в такой сети интернет, 
+и почему они так много тратят времени, а может быть не тратят, может проводят с пользой в данной сети.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>Итак, одна из самых популярнейших сетей в России - это сеть "Вконтакте", которая сейчас имеет очень короткую..очень короткий адрес вэка точка ком.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>Аа.. как не посмотрю, в метро постоянно кто-то сидит и листает новостную ленту.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>Столько так называемых "мемасиков" можно пролистать и узнать, недаром сегодня в такой интересной футболке, которую мне недавно подарили на день рождения.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>Очень  популярная птичка. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>Чем завоевала популярность? </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>Лично я понять не могу,но сама ,тем не менее,отправляю и использую это.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>Аа..Люди готовы тратить деньги, чтобы получить голоса в контакте, чтобы купить разные стикеры, дабы в переписке стало немножечко живее.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>А.. я не знаю о чем говорить, у меня словарный запас закончился. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>Не ме.. не менее популярное се..приложение инстаграмм, которое закачано в каждом третьем телефоне,аа набирает обороты с каждым днём, и даже у меня рядом лежит телефон, и буквально спустя полчаса я обязательно чекну свой инстаграмм,аа..посмотрев какие истории там публикуются.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>Собственно, социальные сети.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>Социальные сети помогают нам не только найти какого-то человека, держать с ним связь,но и немного расслабиться,например музыка в контакте или приложения могут на некоторое время отвлечь.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>Например едешь ты в метро том же,что сейчас для меня очень актуально,потому что шесть дней из семи в неделю постоянно приходится ездить на учебу, и ты не знаешь, чем себя занять сорок пять минут по времени, и 
+постоянно берешь в руки телефон и начинаешь ээ листать что..листать и узнавать, что вообще.... [нрзб] 
+  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="paragraph" TIER_ID="Интервьюер@text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>Нет ,ну ты говори,я за..я закрою.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="paragraph" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
